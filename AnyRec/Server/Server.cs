@@ -46,9 +46,9 @@ namespace AnyRec.Server
                     }
                     ctx.Response.Headers["Last-Modified"] = DateTime.UtcNow.ToString("R");
                     Logging.Info(this.behavior.Name, $"URI was requested [{ctx.Request.RawUrl}]");
-                    if (string.IsNullOrEmpty(p))
+                    if (!string.IsNullOrEmpty(p))
                     {
-                        Logging.Debug(this.behavior.Name, $"PostData for {ctx.Request.Url.AbsoluteUri}: {p}");
+                        Logging.Debug(this.behavior.Name, $"PostData for {ctx.Request.Url.AbsolutePath}: {p}");
                     }
                     if (listening)
                     {

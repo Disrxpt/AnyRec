@@ -12,11 +12,11 @@ namespace AnyRec.Server
         public static bool ShowTimestamp = true;
         public static void Log(string server, string uri, string message)
         {
-            Write("INFO", server, $"{uri} {message}", ConsoleColor.Cyan);
+            Write("INFO", server, $"{uri} {message}", ConsoleColor.White);
         }
         public static void Info(string server, string message)
         {
-            Write("INFO", server, message, ConsoleColor.Cyan);
+            Write("INFO", server, message, ConsoleColor.White);
         }
         public static void Success(string server, string message)
         {

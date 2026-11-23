@@ -18,12 +18,11 @@ namespace AnyRec.Backend
                 SkinColor = Config.GetString("SkinColor"),
             };
         }
-        public static void SetAvatar(string postdata)
+        public static void SetAvatar(AvatarModel updatedavatar)
         {
-            AvatarModel data = JsonConvert.DeserializeObject<AvatarModel>(postdata);
-            Config.Set("HairColor", data.HairColor);
-            Config.Set("AvatarSelections", data.OutfitSelections);
-            Config.Set("SkinColor", data.SkinColor);
+            Config.Set("HairColor", updatedavatar.HairColor);
+            Config.Set("AvatarSelections", updatedavatar.OutfitSelections);
+            Config.Set("SkinColor", updatedavatar.SkinColor);
         }
     }
 }
