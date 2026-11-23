@@ -87,7 +87,7 @@ namespace AnyRec
             Config.SetDefault("FirstRun", true);
 
             //Player profile configs
-            Config.SetDefault("PlayerId", 1);
+            Config.SetDefault("PlayerId", new Random().Next(1000, 100000));
             Config.SetDefault("Username", "Default");
             Config.SetDefault("Level", 1);
 

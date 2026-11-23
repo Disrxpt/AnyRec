@@ -1,6 +1,7 @@
 ﻿using AnyRec.Backend;
 using AnyRec.Models;
 using AnyRec.Server;
+using AnyRec.Tools;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -61,9 +62,9 @@ namespace AnyRec.ServerBehaviors
                 response = Bytes.JsonObjectToByte(Objectives.LoadObjectives());
             else if (api == "/api/config/v1/motd")
                 response = Bytes.StringToByte("Welcome to AnyRec by ImagineHacking");
-            else if (api == "/api/avatar/v2")
+            else if (api == "/api/avatar/v2" || api == $"/api/avatar/v1/{Config.GetInt("PlayerId")}")
                 response = Bytes.JsonObjectToByte(Avatar.GetAvatar());
-            else if (api == "/api/avatar/v2/set")
+            else if (api == "/api/avatar/v2/set" || api == "/api/avatar/v1/set")
             {
                 AvatarModel newavatar = JsonConvert.DeserializeObject<AvatarModel>(postdata);
                 Avatar.SetAvatar(newavatar);
