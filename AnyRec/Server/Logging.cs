@@ -8,7 +8,7 @@ namespace AnyRec.Server
     internal class Logging
     {
         private static readonly object ConsoleLock = new object();
-        public static bool Enabled = true;
+        public static bool Enabled = false;
         public static bool ShowTimestamp = true;
         public static void Log(string server, string uri, string message)
         {
@@ -60,16 +60,13 @@ namespace AnyRec.Server
                 ConsoleColor original = Console.ForegroundColor;
                 try
                 {
+                    Console.ForegroundColor = color;
                     if (ShowTimestamp)
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkGray;
                         Console.Write($"[{DateTime.Now:HH:mm:ss}] ");
                     }
-                    Console.ForegroundColor = color;
                     Console.Write($"[{level.PadRight(7)}] ");
-                    Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.Write($"[{server}] ");
-                    Console.ForegroundColor = ConsoleColor.Gray;
                     Console.WriteLine(message);
                 }
                 finally

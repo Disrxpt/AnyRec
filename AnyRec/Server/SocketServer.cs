@@ -69,12 +69,22 @@ namespace AnyRec.Server
                     {
                         while (webSocket.State == WebSocketState.Open)
                         {
+                            if (!listening)
+                            {
+                                webSocket.Abort();
+                                webSocket.Dispose();
+                                continue;
+                            }
                             result = await webSocket.ReceiveAsync(buffer, CancellationToken.None);
                             string message = Encoding.UTF8.GetString(buffer.Array, 0, result.Count);
                             Logging.Info("NOTIF", $"Recieved {message}");
                             ArraySegment<byte> responseBuffer = new ArraySegment<byte>(SocketServer.GenerateResponse());
                             await webSocket.SendAsync(responseBuffer, WebSocketMessageType.Text, true, CancellationToken.None);
                         }
+                    }
+                    catch (WebSocketException)
+                    {
+                        Logging.Warning("NOTIF", "Closed connection to websocket server.");
                     }
                     catch (Exception ex)
                     {

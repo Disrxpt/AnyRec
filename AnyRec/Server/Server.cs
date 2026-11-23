@@ -14,6 +14,7 @@ namespace AnyRec.Server
         public Server(ServerBehavior behavior)
         {
             this.behavior = behavior;
+            ServerBehavior.behaviorlist.Add(this);
             try
             {
                 Logging.Info(behavior.Name, "Starting server...");
