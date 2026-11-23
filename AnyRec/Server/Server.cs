@@ -35,33 +35,36 @@ namespace AnyRec.Server
             while (listening)
             {
                 var ctx = await listener.GetContextAsync();
-                string p = "";
-                using (MemoryStream memoryStream = new MemoryStream())
-                {
-                    ctx.Request.InputStream.CopyTo(memoryStream);
-                    byte[] p_array = memoryStream.ToArray();
-                    p = Encoding.ASCII.GetString(p_array);
-                }
-                ctx.Response.Headers["Last-Modified"] = DateTime.UtcNow.ToString("R");
-                Logging.Info(this.behavior.Name, $"URI was requested [{ctx.Request.RawUrl}]");
-                if (string.IsNullOrEmpty(p))
-                {
-                    Logging.Debug(this.behavior.Name, $"PostData for {ctx.Request.Url.AbsoluteUri}: {p}");
-                }
                 if (listening)
                 {
-                    byte[] array = this.behavior.Listener(ctx);
-                    ctx.Response.StatusCode = 200;
-                    ctx.Response.ContentLength64 = array.Length;
-                    await ctx.Response.OutputStream.WriteAsync(array);
-                    ctx.Response.Close();
+                    string p = "";
+                    using (MemoryStream memoryStream = new MemoryStream())
+                    {
+                        ctx.Request.InputStream.CopyTo(memoryStream);
+                        byte[] p_array = memoryStream.ToArray();
+                        p = Encoding.ASCII.GetString(p_array);
+                    }
+                    ctx.Response.Headers["Last-Modified"] = DateTime.UtcNow.ToString("R");
+                    Logging.Info(this.behavior.Name, $"URI was requested [{ctx.Request.RawUrl}]");
+                    if (string.IsNullOrEmpty(p))
+                    {
+                        Logging.Debug(this.behavior.Name, $"PostData for {ctx.Request.Url.AbsoluteUri}: {p}");
+                    }
+                    if (listening)
+                    {
+                        byte[] array = this.behavior.Listener(ctx);
+                        ctx.Response.StatusCode = 200;
+                        ctx.Response.ContentLength64 = array.Length;
+                        await ctx.Response.OutputStream.WriteAsync(array);
+                        ctx.Response.Close();
+                    }
                 }
             }
-            listener.Close();
         }
         public void Stop()
         {
             listening = false;
+            this.listener.Close();
         }
     }
 }

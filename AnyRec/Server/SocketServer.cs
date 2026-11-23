@@ -114,6 +114,7 @@ namespace AnyRec.Server
         public void Stop()
         {
             listening = false;
+            this.listener.Close();
         }
     }
 }
