@@ -1,0 +1,4844 @@
+[
+  {
+    "id": 1,
+    "manifestId": "4180590405597713716",
+    "updateName": "RecRoom is Released",
+    "date": "2016-06-29T03:56:39Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 2,
+    "manifestId": "7926661550074548930",
+    "updateName": "PATCH",
+    "date": "2016-06-29T05:34:28Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 3,
+    "manifestId": "5937396277352677720",
+    "updateName": "Minor update",
+    "date": "2016-07-01T02:40:21Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 4,
+    "manifestId": "5234716332756009057",
+    "updateName": "Major update",
+    "date": "2016-07-07T03:10:27Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 5,
+    "manifestId": "675319925160172554",
+    "updateName": "Charades bug fixes",
+    "date": "2016-07-08T04:46:39Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 6,
+    "manifestId": "394418314086580303",
+    "updateName": "Major update",
+    "date": "2016-07-13T06:44:00Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 7,
+    "manifestId": "2793222674831519927",
+    "updateName": "PATCH",
+    "date": "2016-07-13T07:17:11Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 8,
+    "manifestId": "3518826461438877478",
+    "updateName": "PAINTBALL is live!",
+    "date": "2016-07-20T05:31:57Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 9,
+    "manifestId": "1105116417500379163",
+    "updateName": "PATCH",
+    "date": "2016-07-20T05:48:33Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 10,
+    "manifestId": "4041085561776802553",
+    "updateName": "Minor Update - Paintball Fixes",
+    "date": "2016-07-22T04:12:22Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 11,
+    "manifestId": "2224171743476188630",
+    "updateName": "Minor Update - Paintball Fixes",
+    "date": "2016-07-22T04:40:14Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 12,
+    "manifestId": "797475839536905254",
+    "updateName": "the \"Move In\" edition",
+    "date": "2016-07-27T06:56:04Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 13,
+    "manifestId": "3601417244482181468",
+    "updateName": "Rec Room MINOR UPDATE",
+    "date": "2016-07-29T05:16:15Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 14,
+    "manifestId": "356844315186453937",
+    "updateName": null,
+    "date": "2016-08-02T23:06:51Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 15,
+    "manifestId": "2459083052223685832",
+    "updateName": "the \"Experiments\" PATCH",
+    "date": "2016-08-11T06:36:31Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 16,
+    "manifestId": "5704849664609135853",
+    "updateName": "the \"Experiments\" edition",
+    "date": "2016-08-11T06:46:55Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 17,
+    "manifestId": "5704849664609135853",
+    "updateName": "the \"Experiments\" PATCH",
+    "date": "2016-08-11T06:46:55Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 18,
+    "manifestId": "20170328095030222",
+    "updateName": "the \"Experiments\" PATCH",
+    "date": "2016-08-11T07:34:40Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 19,
+    "manifestId": "6017726618797772377",
+    "updateName": "the \"World Championships\" edition",
+    "date": "2016-08-17T04:40:29Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 20,
+    "manifestId": "8414822626868729817",
+    "updateName": "the \"World Championships\" PATCH",
+    "date": "2016-08-17T21:41:56Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 21,
+    "manifestId": "7115392148801672603",
+    "updateName": "the \"World Championships\" PATCH",
+    "date": "2016-08-17T22:41:19Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 22,
+    "manifestId": "5360232407282512201",
+    "updateName": "Championship Starts / New Paintball Map",
+    "date": "2016-08-24T22:52:50Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 23,
+    "manifestId": "3233729662911539772",
+    "updateName": "Level Up!",
+    "date": "2016-08-31T07:41:47Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 24,
+    "manifestId": "3798172550462140867",
+    "updateName": "Level Up! PATCH",
+    "date": "2016-08-31T07:43:43Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 25,
+    "manifestId": "394935228226334493",
+    "updateName": "Paintball Arsenal Upgrade",
+    "date": "2016-09-08T05:33:59Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 26,
+    "manifestId": "6639491001730954404",
+    "updateName": "Minor update - daily challenges refresh",
+    "date": "2016-09-15T05:23:29Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 27,
+    "manifestId": "7007068986923462121",
+    "updateName": "Disc Golf edition",
+    "date": "2016-09-21T06:09:09Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 28,
+    "manifestId": "386252387837028876",
+    "updateName": "Disc Golf edition",
+    "date": "2016-09-21T06:16:53Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 29,
+    "manifestId": "4329015347430869236",
+    "updateName": "UPDATE is live",
+    "date": "2016-09-29T03:50:46Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 30,
+    "manifestId": "1591673639619502502",
+    "updateName": "Update - tutorials, scoreboards, notifications",
+    "date": "2016-10-06T06:05:15Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 31,
+    "manifestId": "2501384732285060244",
+    "updateName": "Update - tutorials, scoreboards, notifications",
+    "date": "2016-10-07T22:37:37Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 32,
+    "manifestId": "5317305413924462757",
+    "updateName": "the \"3D Charades\" edition",
+    "date": "2016-10-18T05:49:40Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 33,
+    "manifestId": "1604792277333790762",
+    "updateName": "the \"Practice Mode\" edition",
+    "date": "2016-10-27T00:30:17Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 34,
+    "manifestId": "5383238034238139872",
+    "updateName": "the \"Practice Mode\" edition",
+    "date": "2016-10-29T05:13:10Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 35,
+    "manifestId": "976486110269581733",
+    "updateName": "Patch release - invincibility fix",
+    "date": "2016-11-04T04:33:47Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 36,
+    "manifestId": "3009411680931499705",
+    "updateName": "Big Announcements",
+    "date": "2016-11-09T03:55:23Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 37,
+    "manifestId": "860756852849299734",
+    "updateName": "Big Announcements",
+    "date": "2016-11-10T04:25:42Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 38,
+    "manifestId": "424546141649632564",
+    "updateName": "Patch Update - Double XP edition",
+    "date": "2016-11-17T00:34:45Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 39,
+    "manifestId": "2999110564380282122",
+    "updateName": "the \"Shake hands to make friends\" edition",
+    "date": "2016-11-23T06:26:08Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 40,
+    "manifestId": "8464629802564135940",
+    "updateName": "the \"man we fixed a lot of stuff\" edition",
+    "date": "2016-11-24T07:55:54Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 41,
+    "manifestId": "1964111244192991547",
+    "updateName": "the \"man we fixed a lot of stuff\" edition",
+    "date": "2016-11-30T02:32:10Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 42,
+    "manifestId": "8224493981844824938",
+    "updateName": "the \"Paintball Quarry\" edition",
+    "date": "2016-12-09T08:11:41Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 43,
+    "manifestId": "1341823113150898819",
+    "updateName": "the \"Paintball Quarry\" edition",
+    "date": "2016-12-10T01:13:48Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 44,
+    "manifestId": "8356502470941083689",
+    "updateName": "Patch release",
+    "date": "2016-12-17T00:35:04Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 45,
+    "manifestId": "44843189150346366",
+    "updateName": "the \"Lounge\" edition",
+    "date": "2016-12-23T07:09:33Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 46,
+    "manifestId": "1355637356417786081",
+    "updateName": "Thanks class of 2016!",
+    "date": "2017-01-07T07:41:28Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 47,
+    "manifestId": "4426211608086196524",
+    "updateName": null,
+    "date": "2017-01-11T00:18:10Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 48,
+    "manifestId": "4350859901318817364",
+    "updateName": "the \"Look Who's Talking\" edition",
+    "date": "2017-01-18T06:10:07Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 49,
+    "manifestId": "7500062053385944746",
+    "updateName": "the \"Account Management is Sexy\" edition",
+    "date": "2017-01-19T04:01:59Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 50,
+    "manifestId": "8061750969870240553",
+    "updateName": "the \"Account Management is Sexy\" edition",
+    "date": "2017-01-20T06:17:12Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 51,
+    "manifestId": "8061750969870240553",
+    "updateName": "the \"Account Management is Sexy\" edition",
+    "date": "2017-01-20T06:17:12Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 52,
+    "manifestId": "151686977716385839",
+    "updateName": "the \"Look Who's Talking\" Edition - Take 2",
+    "date": "2017-01-26T06:14:27Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 53,
+    "manifestId": "2184174500936477594",
+    "updateName": "the \"Look Whos Talking\" Edition - Take 2",
+    "date": "2017-02-01T06:33:25Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 54,
+    "manifestId": "4682896605443297458",
+    "updateName": "the \"Quest for the Golden Trophy!\" Edition",
+    "date": "2017-02-04T04:53:02Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 55,
+    "manifestId": "2420201992531381519",
+    "updateName": "the \"Quest for the Golden Trophy!\" Edition",
+    "date": "2017-02-10T06:48:05Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 56,
+    "manifestId": "7694317481478922956",
+    "updateName": "Minor update - fixes",
+    "date": "2017-02-11T05:57:56Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 57,
+    "manifestId": "7169987427560345612",
+    "updateName": "Minor update - minor bug fix",
+    "date": "2017-02-14T02:47:24Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 58,
+    "manifestId": "7452447116407047837",
+    "updateName": "Minor update - minor bug fix",
+    "date": "2017-02-14T07:05:12Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 59,
+    "manifestId": "2859847576718116651",
+    "updateName": "the \"Quest 1.1\" Edition",
+    "date": "2017-02-23T00:52:07Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 60,
+    "manifestId": "6859627191769621156",
+    "updateName": "Minor update - flag behavior fix",
+    "date": "2017-02-24T04:40:18Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 61,
+    "manifestId": "1736465827698404753",
+    "updateName": "Minor update - flag behavior fix",
+    "date": "2017-02-25T03:15:01Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 62,
+    "manifestId": "6135625719507137531",
+    "updateName": "Minor update - server outage resiliency",
+    "date": "2017-03-02T02:37:31Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 63,
+    "manifestId": "512603081605663477",
+    "updateName": "the \"Clearcut\" edition",
+    "date": "2017-03-09T07:36:59Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 64,
+    "manifestId": "3013939933633696253",
+    "updateName": "Minor update - fixing Quest issues",
+    "date": "2017-03-10T06:31:01Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 65,
+    "manifestId": "1917087114031565919",
+    "updateName": "Minor update - server instability",
+    "date": "2017-03-13T23:47:14Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 66,
+    "manifestId": "7031178245801109076",
+    "updateName": "Minor update - server instability",
+    "date": "2017-03-14T03:52:18Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 67,
+    "manifestId": "1867696127010072960",
+    "updateName": "Minor update - hang on launch fix",
+    "date": "2017-03-17T23:39:02Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 68,
+    "manifestId": "4635637071237364407",
+    "updateName": "the \"Propulsion\" edition",
+    "date": "2017-03-23T07:01:13Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 69,
+    "manifestId": "157323939332896781",
+    "updateName": "Minor update - black world bug",
+    "date": "2017-03-24T00:27:38Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 70,
+    "manifestId": "1655320907991352027",
+    "updateName": "Minor update - black world bug",
+    "date": "2017-03-24T04:50:23Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 71,
+    "manifestId": "429961858648164484",
+    "updateName": "Minor update - large friend lists performance",
+    "date": "2017-03-25T04:00:09Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 72,
+    "manifestId": "7797052052086516007",
+    "updateName": "Minor update - locker room issues",
+    "date": "2017-03-29T03:58:30Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 73,
+    "manifestId": "557226448350250124",
+    "updateName": "Minor update - locker room issues",
+    "date": "2017-03-29T06:00:33Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 74,
+    "manifestId": "6638434957706912439",
+    "updateName": "Minor update - bunch of stuff we broke",
+    "date": "2017-03-31T04:56:34Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 75,
+    "manifestId": "7036253055790919140",
+    "updateName": "the \"Team Charades\" edition",
+    "date": "2017-04-08T01:06:02Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 76,
+    "manifestId": "4374944403903181132",
+    "updateName": "Minor update - fixing charades",
+    "date": "2017-04-13T01:49:04Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 77,
+    "manifestId": "6660160640342553930",
+    "updateName": "Minor update - fixing charades",
+    "date": "2017-04-15T03:03:37Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 78,
+    "manifestId": "1708612398542181927",
+    "updateName": "the \"Rise of Jumbotron\" edition",
+    "date": "2017-04-21T02:49:30Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 79,
+    "manifestId": "2724903402798746611",
+    "updateName": "Fixing paintball collision",
+    "date": "2017-04-28T05:59:53Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 80,
+    "manifestId": "6411602155504538080",
+    "updateName": "Fixing paintball collision",
+    "date": "2017-04-29T04:25:43Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 81,
+    "manifestId": "6617834564374838200",
+    "updateName": "the #roomcodes edition",
+    "date": "2017-05-05T04:49:38Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 82,
+    "manifestId": "4447259622368935190",
+    "updateName": "Minor update - fixes for #roomcode edition",
+    "date": "2017-05-06T04:42:09Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 83,
+    "manifestId": "7563719390569238903",
+    "updateName": "Minor update - performance issues",
+    "date": "2017-05-09T02:53:45Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 84,
+    "manifestId": "7775614989016621550",
+    "updateName": "Minor update - performance issues",
+    "date": "2017-05-09T23:09:30Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 85,
+    "manifestId": "2527895551030130502",
+    "updateName": "the \"Co-op Catch\" edition",
+    "date": "2017-05-20T04:29:28Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 86,
+    "manifestId": "1938376462467514898",
+    "updateName": "the \"Co-op Catch\" edition",
+    "date": "2017-05-20T05:30:19Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 87,
+    "manifestId": "111528910291636430",
+    "updateName": "Minor update - lots of bug fixes",
+    "date": "2017-05-21T06:31:05Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 88,
+    "manifestId": "3113799905038620046",
+    "updateName": "Minor update - Jumbotron bug",
+    "date": "2017-05-23T23:12:22Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 89,
+    "manifestId": "7316990286433797333",
+    "updateName": "the \"Rec Center\" edition",
+    "date": "2017-06-09T01:14:56Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 90,
+    "manifestId": "7086910194525152136",
+    "updateName": "the \"Rec Center\" edition",
+    "date": "2017-06-09T03:38:26Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 91,
+    "manifestId": "2221582477109258609",
+    "updateName": "Minor update - Rec Center bug fixes",
+    "date": "2017-06-14T02:34:57Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 92,
+    "manifestId": "1556551835360591493",
+    "updateName": "the \"Spillway\" edition",
+    "date": "2017-06-23T21:23:52Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 93,
+    "manifestId": "2109968245044975233",
+    "updateName": "Minor update - friends list status fix",
+    "date": "2017-06-25T09:07:32Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 94,
+    "manifestId": "7707708171552738217",
+    "updateName": "Minor update - friends list status fix",
+    "date": "2017-06-27T02:41:58Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 95,
+    "manifestId": "1589897961036122544",
+    "updateName": "the \"Featured Events\" edition",
+    "date": "2017-07-11T04:44:03Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 96,
+    "manifestId": "8059404486147353055",
+    "updateName": "Minor update - fixes for Featured Events edition",
+    "date": "2017-07-12T05:15:07Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 97,
+    "manifestId": "4776057137356809898",
+    "updateName": "Minor update - fixes for Featured Events edition",
+    "date": "2017-07-12T05:20:17Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 98,
+    "manifestId": "2932388464690083659",
+    "updateName": "dankr",
+    "date": "2017-07-12T23-43-34Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 99,
+    "manifestId": "5887722486724265435",
+    "updateName": "the \"Fancy Pants\" edition",
+    "date": "2017-07-21T06:03:07Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 100,
+    "manifestId": "4925410960753961067",
+    "updateName": "Rec Room patch update - the \"Fancy Pants\" edition",
+    "date": "2017-07-22T04:45:56Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 101,
+    "manifestId": "1167997133776571684",
+    "updateName": "Rec Room patch update - the \"Fancy Pants\" edition",
+    "date": "2017-07-28T05:14:51Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 102,
+    "manifestId": "6065395139861851248",
+    "updateName": "the \"Expresso\" edition",
+    "date": "2017-08-04T04:54:25Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 103,
+    "manifestId": "6858761309844944856",
+    "updateName": "the \"Expresso\" edition",
+    "date": "2017-08-05T00:51:05Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 104,
+    "manifestId": "5457546806278092971",
+    "updateName": "Minor update - patch for Expresso edition",
+    "date": "2017-08-08T02:40:33Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 105,
+    "manifestId": "878274117621657266",
+    "updateName": "Minor update - patch for Expresso edition",
+    "date": "2017-08-15T02:16:49Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 106,
+    "manifestId": "106437243638548470",
+    "updateName": "the \"Curse of the Crimson Cauldron\" Edition",
+    "date": "2017-08-18T05:26:42Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 107,
+    "manifestId": "8767618684281036379",
+    "updateName": "the \"Curse of the Crimson Cauldron\" Edition",
+    "date": "2017-08-23T02:54:30Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 108,
+    "manifestId": "3459941088193637200",
+    "updateName": "the \"Sandbox Machine\" edition",
+    "date": "2017-09-01T05:07:05Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 109,
+    "manifestId": "3899853783182366588",
+    "updateName": "the \"Sandbox Machine\" edition",
+    "date": "2017-09-02T04:25:13Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 110,
+    "manifestId": "7285995850302779742",
+    "updateName": "patch for the \"Sandbox Machine\" edition",
+    "date": "2017-09-11T22:46:16Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 111,
+    "manifestId": "909705437417763467",
+    "updateName": "the \"Parklife\" edition",
+    "date": "2017-09-15T04:01:47Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 112,
+    "manifestId": "8267987913704360820",
+    "updateName": "tmoney_trailer",
+    "date": "2017-10-02T21-25-30Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 113,
+    "manifestId": "7189802214776500735",
+    "updateName": "the \"Maker Pen\" edition",
+    "date": "2017-10-02T22:15:46Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 114,
+    "manifestId": "5097373200380607830",
+    "updateName": "the \"Maker Pen\" edition",
+    "date": "2017-10-04T02:26:59Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 115,
+    "manifestId": "508117852143706917",
+    "updateName": "the \"Maker Pen\" edition",
+    "date": "2017-10-06T02:48:34Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 116,
+    "manifestId": "9044764189335465748",
+    "updateName": "the \"PSVR Soft Launch\" edition",
+    "date": "2017-10-14T02:45:38Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 117,
+    "manifestId": "1397517903675483731",
+    "updateName": "patch for the \"PSVR Soft Launch\" edition",
+    "date": "2017-10-20T00:15:04Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 118,
+    "manifestId": "1443494703610945087",
+    "updateName": "the \"Cheers\" edition",
+    "date": "2017-10-28T00:21:58Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 119,
+    "manifestId": "398252297428013300",
+    "updateName": "the \"Cheers\" edition",
+    "date": "2017-10-28T05:35:02Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 120,
+    "manifestId": "3171274018253403050",
+    "updateName": "the \"Cheers\" edition",
+    "date": "2017-11-01T01:37:38Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 121,
+    "manifestId": "4239320714627442323",
+    "updateName": "the \"Cheers\" edition",
+    "date": "2017-11-04T02:29:04Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 122,
+    "manifestId": "3186840471977606292",
+    "updateName": "the \"RC Car\" edition",
+    "date": "2017-11-10T05:49:07Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 123,
+    "manifestId": "6258316584260598560",
+    "updateName": "the \"Laser Tag\" edition",
+    "date": "2017-11-18T22:11:39Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 124,
+    "manifestId": "6274982063416276948",
+    "updateName": "the \"Laser Tag\" edition",
+    "date": "2017-11-21T05:44:33Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 125,
+    "manifestId": "423813208838963499",
+    "updateName": "the \"Laser Tag\" edition",
+    "date": "2017-12-01T04:39:18Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 126,
+    "manifestId": "5289494715554966483",
+    "updateName": "the ^clubhouse edition",
+    "date": "2017-12-15T06:29:10Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 127,
+    "manifestId": "8085942183583969702",
+    "updateName": null,
+    "date": "2017-12-20T21:50:35Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 128,
+    "manifestId": "7805431100826792241",
+    "updateName": "the \"rec.net\" edition (rollback)",
+    "date": "2018-01-13T03:13:25Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 129,
+    "manifestId": "7805431100826792241",
+    "updateName": "the \"rec.net\" edition (rollback)",
+    "date": "2018-01-13T03:13:25Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 130,
+    "manifestId": "4484636294404304535",
+    "updateName": "the \"rec.net\" edition",
+    "date": "2018-01-18T06:17:10Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 131,
+    "manifestId": "6013322478435763046",
+    "updateName": "the \"Pirate Quest Preview\" edition",
+    "date": "2018-02-02T01:04:59Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 132,
+    "manifestId": "7236551857882554554",
+    "updateName": "the \"Pirate Quest Preview\" edition",
+    "date": "2018-02-03T01:35:48Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 133,
+    "manifestId": "5848972363929365350",
+    "updateName": "the \"Merch Booth\" edition",
+    "date": "2018-02-15T23:48:13Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 134,
+    "manifestId": "8142087113497352209",
+    "updateName": "the \"Merch Booth\" edition",
+    "date": "2018-02-17T03:16:39Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 135,
+    "manifestId": "4420801733989897445",
+    "updateName": "Rec Room PATCH2 - the \"Merch Booth\" edition",
+    "date": "2018-02-22T04:13:28Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 136,
+    "manifestId": "3216161664209849606",
+    "updateName": "the \"Isle of Lost Skulls\" edition",
+    "date": "2018-03-02T01:14:27Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 137,
+    "manifestId": "4037135149930156318",
+    "updateName": "the \"Isle of Lost Skulls\" edition",
+    "date": "2018-03-02T03:20:27Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 138,
+    "manifestId": "1118596612051042182",
+    "updateName": "the \"Isle of Lost Skulls\" edition",
+    "date": "2018-03-03T22:00:42Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 139,
+    "manifestId": "4052215436610137454",
+    "updateName": "the \"Isle of Lost Skulls\" edition",
+    "date": "2018-03-06T00:39:58Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 140,
+    "manifestId": "4220356419979868090",
+    "updateName": "the \"Locomotion\" edition",
+    "date": "2018-03-16T00:55:21Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 141,
+    "manifestId": "1820757600679449497",
+    "updateName": "the \"Locomotion\" edition",
+    "date": "2018-03-17T00:35:40Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 142,
+    "manifestId": "8770150353765851943",
+    "updateName": "the \"Locomotion\" edition",
+    "date": "2018-03-20T23:43:25Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 143,
+    "manifestId": "8442049065322269756",
+    "updateName": "Rec Room VERY MINOR UPDATE - the \"Wait for it...\" edition",
+    "date": "2018-04-05T23:22:43Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 144,
+    "manifestId": "5073294050098184819",
+    "updateName": "the \"Pizza and Potions\" edition",
+    "date": "2018-04-12T22:08:52Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 145,
+    "manifestId": "6016813016749077978",
+    "updateName": "the \"Pizza and Potions\" edition",
+    "date": "2018-04-14T02:58:42Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 146,
+    "manifestId": "2313442255500281401",
+    "updateName": "the \"Spring Cleaning\" edition",
+    "date": "2018-04-27T22:51:13Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 147,
+    "manifestId": "8271519225986407483",
+    "updateName": "the \"Spring Cleaning\" edition",
+    "date": "2018-04-29T21:28:39Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 148,
+    "manifestId": "1238523315800122184",
+    "updateName": "the \"Spring Cleaning\" edition",
+    "date": "2018-05-02T01:11:57Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 149,
+    "manifestId": "181945085197611952",
+    "updateName": "the \"Shopping Spree\" edition",
+    "date": "2018-05-05T00:50:17Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 150,
+    "manifestId": "8220680436138526837",
+    "updateName": "the \"Shopping Spree\" edition",
+    "date": "2018-05-09T23:37:59Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 151,
+    "manifestId": "3540176249697123058",
+    "updateName": "the \"Shopping Spree\" edition",
+    "date": "2018-05-11T22:12:06Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 152,
+    "manifestId": "276973053162757443",
+    "updateName": "the \"Shopping Spree\" edition",
+    "date": "2018-05-15T22:07:52Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 153,
+    "manifestId": "5100465187399882023",
+    "updateName": "the \"Shopping Spree\" edition",
+    "date": "2018-05-16T23:37:57Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 154,
+    "manifestId": "4060364212938800220",
+    "updateName": "the \"Rec Royale Alpha\" edition",
+    "date": "2018-05-26T05:00:13Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 155,
+    "manifestId": "942313249613397668",
+    "updateName": "the \"Rec Royale Alpha\" edition",
+    "date": "2018-05-30T04:27:44Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 156,
+    "manifestId": "406907973942562536",
+    "updateName": "fix for OUTAGE",
+    "date": "2018-06-06T22:52:43Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 157,
+    "manifestId": "5191091334350316840",
+    "updateName": "the \"Rec Royale\" edition",
+    "date": "2018-06-08T03:55:49Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 158,
+    "manifestId": "1180669471052431665",
+    "updateName": "the \"Rec Royale\" edition",
+    "date": "2018-06-09T01:22:33Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 159,
+    "manifestId": "6551901606299236741",
+    "updateName": "the \"Gizmos\" edition",
+    "date": "2018-06-21T04:30:05Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 160,
+    "manifestId": "8810573774841826682",
+    "updateName": "the \"Gizmos\" edition",
+    "date": "2018-06-22T04:34:04Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 161,
+    "manifestId": "7215521011309491864",
+    "updateName": "the \"New You\" edition",
+    "date": "2018-07-13T21:30:36Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 162,
+    "manifestId": "5685623469708947678",
+    "updateName": "the \"New You\" edition",
+    "date": "2018-07-17T21:57:37Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 163,
+    "manifestId": "3508314630122133762",
+    "updateName": "the \"New You\" edition",
+    "date": "2018-07-19T03:36:19Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 164,
+    "manifestId": "9192535612148196234",
+    "updateName": "the \"New You\" edition",
+    "date": "2018-07-21T00:10:36Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 165,
+    "manifestId": "2798276812346765733",
+    "updateName": "the \"Rec Royale Squads Mode\" edition",
+    "date": "2018-07-27T02:13:12Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 166,
+    "manifestId": "6815323762502625569",
+    "updateName": "the \"Rec Royale Squads Mode\" edition",
+    "date": "2018-07-28T03:32:16Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 167,
+    "manifestId": "7711594188166789780",
+    "updateName": "the \"Rec Royale Squads Mode\" edition",
+    "date": "2018-08-01T02:35:15Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 168,
+    "manifestId": "7606648147332447514",
+    "updateName": "Rec Room MINI-UPDATE - the ^recroyALL experiment",
+    "date": "2018-08-04T02:12:46Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 169,
+    "manifestId": "1977224272263690053",
+    "updateName": "the \"Cyber Junk City\" edition",
+    "date": "2018-08-10T01:52:57Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 170,
+    "manifestId": "2623162413694457681",
+    "updateName": "the \"Cyber Junk City\" edition",
+    "date": "2018-08-11T02:16:20Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 171,
+    "manifestId": "7679798170668024064",
+    "updateName": "the ^RecCenter edition",
+    "date": "2018-08-28T20:00:26Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 172,
+    "manifestId": "8708810014777186446",
+    "updateName": "the ^RecCenter edition",
+    "date": "2018-08-31T00:23:22Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 173,
+    "manifestId": "8292530094402723359",
+    "updateName": "the ^RecCenter edition",
+    "date": "2018-08-31T01:05:57Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 174,
+    "manifestId": "7763898423339170417",
+    "updateName": "the ^RecCenter edition",
+    "date": "2018-09-08T01:35:54Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 175,
+    "manifestId": "926897397772805009",
+    "updateName": "the \"Toys in the Sandbox\" edition",
+    "date": "2018-09-14T22:44:25Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 176,
+    "manifestId": "5112800850661766506",
+    "updateName": "the \"Costume Party\" edition",
+    "date": "2018-09-28T01:32:54Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 177,
+    "manifestId": "678246311108928276",
+    "updateName": "the \"Costume Party\" edition",
+    "date": "2018-09-29T04:17:32Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 178,
+    "manifestId": "7148576085562359333",
+    "updateName": "the \"Costume Party\" edition",
+    "date": "2018-09-29T06:31:03Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 179,
+    "manifestId": "8472574316878862735",
+    "updateName": "the \"Costume Party\" edition",
+    "date": "2018-09-30T01:19:48Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 180,
+    "manifestId": "8254847920944208371",
+    "updateName": "the \"Bowling\" edition",
+    "date": "2018-10-12T03:46:07Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 181,
+    "manifestId": "6943606948982362268",
+    "updateName": "the \"Bowling\" edition",
+    "date": "2018-10-13T01:50:41Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 182,
+    "manifestId": "1804986234319208248",
+    "updateName": "the \"Bowling\" edition",
+    "date": "2018-10-26T02:07:23Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 183,
+    "manifestId": "340101847129293281",
+    "updateName": "the \"Maker Pen 2.0\" edition",
+    "date": "2018-11-06T04:42:06Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 184,
+    "manifestId": "6237055234290468333",
+    "updateName": "the \"Maker Pen 2.0\" edition",
+    "date": "2018-11-09T00:42:18Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 185,
+    "manifestId": "2538457149791015466",
+    "updateName": "the \"Crescendo of the Blood Moon\" edition",
+    "date": "2018-11-16T01:00:52Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 186,
+    "manifestId": "8188591807556222315",
+    "updateName": "the \"Crescendo of the Blood Moon\" edition",
+    "date": "2018-11-17T05:31:17Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 187,
+    "manifestId": "571906163852710326",
+    "updateName": "the \"Crescendo of the Blood Moon\" edition",
+    "date": "2018-11-21T23:28:53Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 188,
+    "manifestId": "6628359842898080380",
+    "updateName": "the \"Isle of Lost Skulls - Rebooty!\" edition",
+    "date": "2018-12-06T02:34:52Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 189,
+    "manifestId": "4492080661376668040",
+    "updateName": "the \"Isle of Lost Skulls - Rebooty!\" edition",
+    "date": "2018-12-07T02:26:17Z",
+    "il2cpp": false,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 190,
+    "manifestId": "1421943146240504109",
+    "updateName": "the \"Inventions\" edition",
+    "date": "2018-12-15T00:12:52Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 191,
+    "manifestId": "7089892903580845400",
+    "updateName": "the \"Inventions\" edition",
+    "date": "2018-12-20T02:04:44Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 192,
+    "manifestId": "7935806666775951302",
+    "updateName": "the \"Inventions\" edition",
+    "date": "2018-12-21T02:03:57Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 193,
+    "manifestId": "7700717833951446611",
+    "updateName": "the \"Social Dorm\" edition",
+    "date": "2019-01-19T00:43:25Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 194,
+    "manifestId": "4470782925300260923",
+    "updateName": "the \"Social Dorm\" edition",
+    "date": "2019-01-25T21:47:19Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 195,
+    "manifestId": "2756916550375388368",
+    "updateName": "the \"Social Dorm\" edition",
+    "date": "2019-01-30T01:05:38Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 196,
+    "manifestId": "2026425126113952573",
+    "updateName": "the \"Published Inventions\" Edition",
+    "date": "2019-02-07T23:24:01Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 197,
+    "manifestId": "7771374610905981472",
+    "updateName": "Rec Room MINI UPDATE - the \"Published Inventions\" Edition",
+    "date": "2019-02-15T03:55:35Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 198,
+    "manifestId": "374730713245621885",
+    "updateName": "the \"Gifting\" Edition",
+    "date": "2019-03-15T03:23:50Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 199,
+    "manifestId": "709237215407709634",
+    "updateName": "the \"Gifting\" Edition",
+    "date": "2019-03-16T04:18:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 200,
+    "manifestId": "504190851593979573",
+    "updateName": "the \"Gifting\" Edition",
+    "date": "2019-03-19T22:33:35Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 201,
+    "manifestId": "619033774873095936",
+    "updateName": "the \"Let There Be Lights!\" Edition",
+    "date": "2019-04-23T19:25:47Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 202,
+    "manifestId": "9085878949463109094",
+    "updateName": "the \"Let There Be Lights!\" Edition",
+    "date": "2019-04-24T19:07:27Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 203,
+    "manifestId": "6185049689623293718",
+    "updateName": "pedro_test",
+    "date": "2019-04-25T23-23-01Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 204,
+    "manifestId": "859918154791893432",
+    "updateName": "the \"(Don't) Dye Another Day\" Edition",
+    "date": "2019-05-01T01:58:27Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 205,
+    "manifestId": "6305737476812342641",
+    "updateName": "the \"(Don't) Dye Another Day\" Edition",
+    "date": "2019-05-03T01:29:55Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 206,
+    "manifestId": "5317899065588351359",
+    "updateName": "the \"Rainbow Connection\" Edition",
+    "date": "2019-06-05T04:32:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 207,
+    "manifestId": "8365380216693009916",
+    "updateName": "the \"Rainbow Connection\" Edition",
+    "date": "2019-06-06T18:02:12Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 208,
+    "manifestId": "1947085331244888856",
+    "updateName": "the \"Rainbow Connection\" Edition",
+    "date": "2019-06-11T18:05:32Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 209,
+    "manifestId": "35938996036399002",
+    "updateName": "the \"Rainbow Connection\" Edition",
+    "date": "2019-06-27T18:02:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 210,
+    "manifestId": "7996086750005581273",
+    "updateName": "the \"Rainbow Connection\" Edition",
+    "date": "2019-06-28T17:58:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 211,
+    "manifestId": "9040519409788641767",
+    "updateName": "the \"Get a Handle on Creation\" Edition",
+    "date": "2019-07-02T21:01:39Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 212,
+    "manifestId": "2965285279018478837",
+    "updateName": "the \"Living in a Material World\" Edition",
+    "date": "2019-07-09T18:00:15Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 213,
+    "manifestId": "7658323871466054680",
+    "updateName": "the \"Living in a Material World\" Edition",
+    "date": "2019-07-18T21:59:49Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 214,
+    "manifestId": "5915887700806228164",
+    "updateName": "the \"Living in a Material World\" Edition",
+    "date": "2019-07-23T17:56:01Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 215,
+    "manifestId": "4693569285935572384",
+    "updateName": "index_improved",
+    "date": "2019-07-23T18-53-08Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 216,
+    "manifestId": "4043754249033784000",
+    "updateName": "the \"Living in a Material World\" Edition",
+    "date": "2019-07-30T17:59:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 217,
+    "manifestId": "7529139180918012566",
+    "updateName": "the \"Living in a Material World\" Edition",
+    "date": "2019-08-01T22:10:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 218,
+    "manifestId": "5639332342785897485",
+    "updateName": "the \"Try Before You Buy\" Edition",
+    "date": "2019-08-06T21:50:47Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 219,
+    "manifestId": "1372795760834778428",
+    "updateName": "the \"Try Before You Buy\" Edition",
+    "date": "2019-08-13T21:43:29Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 220,
+    "manifestId": "2886220549945716733",
+    "updateName": "the \"Try Before You Buy\" Edition",
+    "date": "2019-08-20T18:04:18Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 221,
+    "manifestId": "8971929951783317494",
+    "updateName": "the \"Try Before You Buy\" Edition",
+    "date": "2019-08-27T18:02:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 222,
+    "manifestId": "1720127094789649875",
+    "updateName": "the \"Stunt Runner\" Edition",
+    "date": "2019-09-05T21:54:23Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 223,
+    "manifestId": "3740416007224945875",
+    "updateName": "the \"Stunt Runner\" Edition",
+    "date": "2019-09-06T18:10:55Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 224,
+    "manifestId": "3817258843939969587",
+    "updateName": "the \"Stunt Runner\" Edition",
+    "date": "2019-09-10T18:23:19Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 225,
+    "manifestId": "8343874037118615738",
+    "updateName": "the \"Stunt Runner\" Edition",
+    "date": "2019-09-17T18:26:51Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 226,
+    "manifestId": "4791756611039694787",
+    "updateName": "the \"Stunt Runner\" Edition",
+    "date": "2019-09-24T20:24:08Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 227,
+    "manifestId": "410777959479966924",
+    "updateName": "the \"Stunt Runner\" Edition",
+    "date": "2019-10-02T18:21:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 228,
+    "manifestId": "7477009420532447045",
+    "updateName": "the \"Stunt Builder\" Edition",
+    "date": "2019-10-10T22:00:53Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 229,
+    "manifestId": "7111541706552293402",
+    "updateName": "the \"Stunt Builder\" Edition",
+    "date": "2019-10-11T18:08:50Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 230,
+    "manifestId": "6759196584658214391",
+    "updateName": "the \"Stunt Builder\" Edition",
+    "date": "2019-10-15T18:09:44Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 231,
+    "manifestId": "7347948835922195841",
+    "updateName": "the \"Stunt Builder\" Edition",
+    "date": "2019-10-15T21:15:10Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 232,
+    "manifestId": "5355413196059622437",
+    "updateName": "the \"Stunt Builder\" Edition",
+    "date": "2019-10-16T18:39:10Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 233,
+    "manifestId": "1443786197990327171",
+    "updateName": "the \"Stunt Builder\" Edition",
+    "date": "2019-10-22T18:14:18Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 234,
+    "manifestId": "5120486837419374208",
+    "updateName": "the \"Crank the Volume\" Edition (rollback)",
+    "date": "2019-10-29T18:09:11Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 235,
+    "manifestId": "3113419806750365889",
+    "updateName": "rolling back last update",
+    "date": "2019-10-31T02:45:04Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 236,
+    "manifestId": "1920649049668801468",
+    "updateName": "the \"More Tools, Fewer Bugs\" Edition",
+    "date": "2019-11-07T20:14:18Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 237,
+    "manifestId": "5315927945872155777",
+    "updateName": "the \"More Tools, Fewer Bugs\" Edition (PC ONLY)",
+    "date": "2019-11-08T20:57:32Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 238,
+    "manifestId": "3952930323819311643",
+    "updateName": "the \"More Tools, Fewer Bugs\" Edition",
+    "date": "2019-11-12T20:10:55Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 239,
+    "manifestId": "7177272088743827206",
+    "updateName": "the \"Fixin' to Ship on iOS\" Edition",
+    "date": "2019-11-21T20:08:33Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 240,
+    "manifestId": "3758688414374192473",
+    "updateName": "the \"Fixin' to Ship on iOS\" Edition",
+    "date": "2019-11-26T00:13:27Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 241,
+    "manifestId": "8322364491392889253",
+    "updateName": "the \"Fixin' to Ship on iOS\" Edition",
+    "date": "2019-12-06T23:22:24Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 242,
+    "manifestId": "343815054766036484",
+    "updateName": "the \"Fixin to Ship on iOS\" Edition",
+    "date": "2019-12-13T07:31:58Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 243,
+    "manifestId": "5948698735243937255",
+    "updateName": "the \"Happy New Decade!\" Edition",
+    "date": "2019-12-19T21:30:25Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 244,
+    "manifestId": "6354528156106512379",
+    "updateName": "the \"On Again/Off Again\" Edition",
+    "date": "2020-01-16T23:52:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 245,
+    "manifestId": "2113156792813307547",
+    "updateName": "the \"On Again/Off Again\" Edition",
+    "date": "2020-01-21T23:58:37Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 246,
+    "manifestId": "7905064361203347857",
+    "updateName": "the \"On Again/Off Again\" Edition",
+    "date": "2020-01-27T22:25:16Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 247,
+    "manifestId": "385148847021849890",
+    "updateName": "the \"Pool Shark\" Edition",
+    "date": "2020-02-03T20:02:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 248,
+    "manifestId": "3043665932792163512",
+    "updateName": "the \"Pool Shark\" Edition",
+    "date": "2020-02-06T20:06:28Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 249,
+    "manifestId": "1385844251939419607",
+    "updateName": "the \"Sunset Cinema\" Edition",
+    "date": "2020-03-05T00:00:58Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 250,
+    "manifestId": "4766551521966830741",
+    "updateName": "the \"Sunset Cinema\" Edition",
+    "date": "2020-03-10T09:08:39Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 251,
+    "manifestId": "2539899194395389618",
+    "updateName": "the \"Rec Room Plus\" edition",
+    "date": "2020-03-27T06:58:55Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 252,
+    "manifestId": "3669417317563627333",
+    "updateName": "the \"Rec Room Plus\" Edition",
+    "date": "2020-04-02T06:51:01Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 253,
+    "manifestId": "3706709507199582170",
+    "updateName": "the \"Quick Meetup\" edition",
+    "date": "2020-04-08T06:56:55Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 254,
+    "manifestId": "9119006898280485087",
+    "updateName": "the \"Polished Meetups\" edition",
+    "date": "2020-04-20T07:32:18Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 255,
+    "manifestId": "6856763107021842453",
+    "updateName": "the \"Join the Club\" edition",
+    "date": "2020-04-30T07:03:10Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 256,
+    "manifestId": "8711383531925002297",
+    "updateName": "the \"Room Comments\" edition",
+    "date": "2020-05-04T07:10:23Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 257,
+    "manifestId": "8502897814266610891",
+    "updateName": "the \"AI or Die\" edition",
+    "date": "2020-05-13T07:01:18Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 258,
+    "manifestId": "971386902671377675",
+    "updateName": "the \"Meetups Everywhere\" edition",
+    "date": "2020-05-19T07:00:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 259,
+    "manifestId": "5708327461703404868",
+    "updateName": "the \"Announcing in the Club\" edition",
+    "date": "2020-05-27T10:02:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 260,
+    "manifestId": "1545703745448283545",
+    "updateName": "the \"Announcing in the Club\" edition",
+    "date": "2020-06-09T07:16:08Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 261,
+    "manifestId": "7438654684604191232",
+    "updateName": "the \"Announcing in the Club\" edition",
+    "date": "2020-06-09T11:58:29Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 262,
+    "manifestId": "7747515311053960730",
+    "updateName": "the \"Announcements in the Club\" edition",
+    "date": "2020-06-16T07:11:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 263,
+    "manifestId": "2707793457083179066",
+    "updateName": "the \"Room Rec\" edition",
+    "date": "2020-06-26T07:00:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 264,
+    "manifestId": "819333407460269348",
+    "updateName": "the \"The Game Gets Better\" edition",
+    "date": "2020-07-01T07:10:54Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 265,
+    "manifestId": "5137844409455432790",
+    "updateName": "the \"The Game Gets Even Better\" edition",
+    "date": "2020-07-09T07:00:49Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 266,
+    "manifestId": "824980809844697935",
+    "updateName": "the \"The Game Gets Even Better\" edition",
+    "date": "2020-07-17T07:00:52Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 267,
+    "manifestId": "6096171698536201882",
+    "updateName": "the \"Mirror Mirror\" edition",
+    "date": "2020-07-22T07:00:56Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 268,
+    "manifestId": "37465864140382273",
+    "updateName": "the \"Mirror Mirror\" edition",
+    "date": "2020-07-28T07:00:49Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 269,
+    "manifestId": "1109057644854052159",
+    "updateName": "the \"Club Events\" edition",
+    "date": "2020-08-04T08:00:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 270,
+    "manifestId": "7806768423893934427",
+    "updateName": "the \"Beta\" edition",
+    "date": "2020-08-10T06:57:31Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 271,
+    "manifestId": "8745551450717882149",
+    "updateName": "the \"Beta\" edition",
+    "date": "2020-08-25T07:00:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 272,
+    "manifestId": "1918475150128917362",
+    "updateName": "the \"Ambidextrous\" Edition",
+    "date": "2020-09-01T07:13:47Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 273,
+    "manifestId": "3919593298565766086",
+    "updateName": "the \"Ambidextrous\" Edition",
+    "date": "2020-09-02T07:41:25Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 274,
+    "manifestId": "553783396802056954",
+    "updateName": "the \"Ink Space\" edition",
+    "date": "2020-09-09T07:00:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 275,
+    "manifestId": "7098008177415642396",
+    "updateName": "the \"Ink Space\" edition",
+    "date": "2020-09-15T07:02:54Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 276,
+    "manifestId": "2466414225875682163",
+    "updateName": "the \"Ink Space\" edition",
+    "date": "2020-09-22T07:02:53Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 277,
+    "manifestId": "7570658998816372084",
+    "updateName": "the \"Ink Space\" edition",
+    "date": "2020-09-29T07:02:41Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 278,
+    "manifestId": "2731970225462962921",
+    "updateName": "the \"Ink Space\" edition",
+    "date": "2020-09-29T13:03:57Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 279,
+    "manifestId": "1830464523229227740",
+    "updateName": "the \"Events Improved!\" edition",
+    "date": "2020-10-08T07:02:49Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 280,
+    "manifestId": "2575087238759976025",
+    "updateName": "the \"Going Questing\" edition",
+    "date": "2020-10-12T07:02:41Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 281,
+    "manifestId": "1651238414443650509",
+    "updateName": null,
+    "date": "2020-10-20T03:02:44Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 282,
+    "manifestId": "513509119891045939",
+    "updateName": "the \"Going Questing\" edition",
+    "date": "2020-10-27T07:06:03Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 283,
+    "manifestId": "513509119891045939",
+    "updateName": "the \"Going Questing\" edition",
+    "date": "2020-10-27T07:06:03Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 284,
+    "manifestId": "4374408338230185042",
+    "updateName": "the \"Going Questing\" edition",
+    "date": "2020-11-04T09:04:52Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 285,
+    "manifestId": "976934657853877610",
+    "updateName": "the \"Going Questing\" edition",
+    "date": "2020-11-10T09:04:46Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 286,
+    "manifestId": "8613363023330547829",
+    "updateName": "the \"Room Details\" edition",
+    "date": "2020-11-17T08:57:26Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 287,
+    "manifestId": "963304308565975469",
+    "updateName": "the \"Room Details\" edition",
+    "date": "2020-11-20T04:17:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 288,
+    "manifestId": "5583908353776384549",
+    "updateName": "the \"Room Details\" edition",
+    "date": "2020-11-24T09:04:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 289,
+    "manifestId": "5094118593291630221",
+    "updateName": "the \"Room Details\" edition",
+    "date": "2020-11-25T23:29:28Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 290,
+    "manifestId": "2515998689772435328",
+    "updateName": "the \"Reaching and Waving\" edition",
+    "date": "2020-12-15T09:04:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 291,
+    "manifestId": "3856132724852001771",
+    "updateName": "the \"Rec Royale Update\" edition",
+    "date": "2020-12-19T01:04:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 292,
+    "manifestId": "4784008965058944912",
+    "updateName": "the \"Rec Royale Update\" edition",
+    "date": "2020-12-19T04:34:48Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 293,
+    "manifestId": "1345011155050689379",
+    "updateName": null,
+    "date": "2021-01-15T04:04:56Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 294,
+    "manifestId": "8936309613064529436",
+    "updateName": "the \"Rec Royale Update\" edition B",
+    "date": "2021-01-28T09:28:46Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 295,
+    "manifestId": "4214176151769797014",
+    "updateName": "the \"Pane in the Glass\" edition",
+    "date": "2021-02-05T18:33:03Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 296,
+    "manifestId": "4214176151769797014",
+    "updateName": "the \"Pane in the Glass\" edition",
+    "date": "2021-02-05T18:33:03Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 297,
+    "manifestId": "2214929176151797710",
+    "updateName": "the \"Brimming with Excitement\" edition",
+    "date": "2021-02-11T09:05:37Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 298,
+    "manifestId": "5568376881932759542",
+    "updateName": "the \"Pane in the Glass\" edition",
+    "date": "2021-02-19T09:16:52Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 299,
+    "manifestId": "1668304353098978352",
+    "updateName": "the \"Pane in the Glass\" edition",
+    "date": "2021-02-24T09:06:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 300,
+    "manifestId": "1972508073464457969",
+    "updateName": "the \"Brimming with Excitement\" edition",
+    "date": "2021-03-04T09:33:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 301,
+    "manifestId": "8575034338563056045",
+    "updateName": "the \"Color Me Impressed\" edition",
+    "date": "2021-03-12T08:49:58Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 302,
+    "manifestId": "6587823609368733405",
+    "updateName": "the \"Color Me Impressed\" edition A",
+    "date": "2021-03-25T06:50:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 303,
+    "manifestId": "8052169807338694588",
+    "updateName": "the \"Color Me Impressed\" edition B",
+    "date": "2021-04-01T06:50:12Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 304,
+    "manifestId": "2795471082075780015",
+    "updateName": "the \"Color Me Impressed\" edition C",
+    "date": "2021-04-09T21:50:35Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 305,
+    "manifestId": "3376732136308148338",
+    "updateName": "the \"First Impressions\" edition A",
+    "date": "2021-04-15T06:51:29Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 306,
+    "manifestId": "8366061368821545929",
+    "updateName": "the \"First Impressions\" edition B",
+    "date": "2021-04-22T06:49:53Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 307,
+    "manifestId": "5245732397155375832",
+    "updateName": "the \"Circuits V2\" edition",
+    "date": "2021-05-04T06:50:19Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 308,
+    "manifestId": "7766723532115020403",
+    "updateName": "the \"Circuits V2\" edition A",
+    "date": "2021-05-07T21:50:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 309,
+    "manifestId": "4565445889388980968",
+    "updateName": "the \"Circuits V2\" edition B",
+    "date": "2021-05-13T06:49:57Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 310,
+    "manifestId": "1476067022411206994",
+    "updateName": "the \"Circuits V2\" edition C",
+    "date": "2021-05-24T06:50:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 311,
+    "manifestId": "1904818789020381487",
+    "updateName": "the \"Circuits V2\" edition D",
+    "date": "2021-06-02T06:50:56Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 312,
+    "manifestId": "6401229084114930863",
+    "updateName": "the \"Take a Seat\" edition",
+    "date": "2021-06-08T06:49:57Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 313,
+    "manifestId": "3779133792993641656",
+    "updateName": "the \"Take a Seat\" edition A",
+    "date": "2021-06-15T06:50:02Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 314,
+    "manifestId": "2357363549411699610",
+    "updateName": "the \"Take a Seat\" edition B",
+    "date": "2021-06-25T06:49:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 315,
+    "manifestId": "6815711303786259837",
+    "updateName": "the \"Take a Seat\" edition C",
+    "date": "2021-07-01T06:49:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 316,
+    "manifestId": "7390196230889670083",
+    "updateName": "the \"Take a Seat\" edition D",
+    "date": "2021-07-09T06:51:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 317,
+    "manifestId": "5757781658886069870",
+    "updateName": "the \"Costs an Arm and a Leg\" edition",
+    "date": "2021-07-14T06:49:55Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 318,
+    "manifestId": "749872836561791002",
+    "updateName": "the \"The Dye is Cast\" edition",
+    "date": "2021-07-21T07:05:04Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 319,
+    "manifestId": "6656234225007984301",
+    "updateName": "the \"The Dye is Cast\" edition",
+    "date": "2021-07-28T06:51:35Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 320,
+    "manifestId": "4900267945326108686",
+    "updateName": "the \"Electric Sheep\" edition",
+    "date": "2021-08-06T10:02:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 321,
+    "manifestId": "7490578678027670178",
+    "updateName": "the \"Take Me Home\" edition",
+    "date": "2021-08-11T06:59:15Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 322,
+    "manifestId": "3201695645344476330",
+    "updateName": "the \"Take Me Home\" edition",
+    "date": "2021-08-12T07:05:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 323,
+    "manifestId": "3734638438632437496",
+    "updateName": "the \"Bento Box\" edition",
+    "date": "2021-08-19T06:49:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 324,
+    "manifestId": "7611535694620830622",
+    "updateName": "the \"Bento Box\" edition A",
+    "date": "2021-08-25T06:50:15Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 325,
+    "manifestId": "2282418548878685483",
+    "updateName": "the \"Bento Box\" edition B",
+    "date": "2021-09-01T06:50:50Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 326,
+    "manifestId": "4927191614003655731",
+    "updateName": "the \"Bento Box\" edition C",
+    "date": "2021-09-08T06:56:31Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 327,
+    "manifestId": "9096888329221432028",
+    "updateName": "the \"Bento Box\" edition D",
+    "date": "2021-09-15T06:51:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 328,
+    "manifestId": "4495642363794043027",
+    "updateName": "the \"Best Friends Forever\" edition",
+    "date": "2021-09-22T11:03:12Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 329,
+    "manifestId": "5515810233259164887",
+    "updateName": "the \"Rec Rally\" edition",
+    "date": "2021-09-29T06:54:35Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 330,
+    "manifestId": "8551030667029251726",
+    "updateName": "the \"Rec Rally\" edition A",
+    "date": "2021-10-06T06:51:53Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 331,
+    "manifestId": "5393617231452897078",
+    "updateName": "the \"Rec Rally\" edition B",
+    "date": "2021-10-13T06:51:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 332,
+    "manifestId": "4476375403636749678",
+    "updateName": "the \"Rec Rally\" edition C",
+    "date": "2021-10-26T06:52:12Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 333,
+    "manifestId": "6847381068872640684",
+    "updateName": "the \"Rec Rally\" edition C",
+    "date": "2021-10-28T21:06:29Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 334,
+    "manifestId": "579262592839297531",
+    "updateName": "the \"Rec Rally\" edition D",
+    "date": "2021-11-12T08:50:16Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 335,
+    "manifestId": "7097242090446385427",
+    "updateName": "the \"Rec Rally\" edition E",
+    "date": "2021-11-20T00:04:25Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 336,
+    "manifestId": "6893027030056397631",
+    "updateName": "the \"Rec Rally\" edition F",
+    "date": "2021-11-30T00:59:31Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 337,
+    "manifestId": "5139685477820370365",
+    "updateName": "the \"Rec Rally\" edition F",
+    "date": "2021-12-03T08:51:24Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 338,
+    "manifestId": "8856866088214255842",
+    "updateName": "the \"Winter Wonderland\" edition A",
+    "date": "2021-12-08T09:43:44Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 339,
+    "manifestId": "2249469937166260586",
+    "updateName": "the \"Winter Wonderland\" edition B",
+    "date": "2021-12-16T08:55:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 340,
+    "manifestId": "3025717471759017702",
+    "updateName": "the \"Winter Wonderland\" edition B",
+    "date": "2021-12-18T04:20:47Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 341,
+    "manifestId": "3008817658556881349",
+    "updateName": "the \"Winter Wonderland\" edition C",
+    "date": "2022-01-20T09:21:33Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 342,
+    "manifestId": "937523817675049833",
+    "updateName": "the \"Where's My Cape\" edition",
+    "date": "2022-02-02T08:56:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 343,
+    "manifestId": "9019523869596621972",
+    "updateName": "the \"Pane in the Glass\" edition",
+    "date": "2022-02-09T08:51:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 344,
+    "manifestId": "9037836832672645106",
+    "updateName": "the \"Where's My Cape\" edition",
+    "date": "2022-02-16T08:51:46Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 345,
+    "manifestId": "2800208212683326113",
+    "updateName": "the \"Maker Pen Makeover\" edition",
+    "date": "2022-02-25T08:54:49Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 346,
+    "manifestId": "3923980740911990021",
+    "updateName": "the \"Maker Pen Makeover\" edition A",
+    "date": "2022-03-02T08:50:56Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 347,
+    "manifestId": "3630672705004706929",
+    "updateName": "the \"New Profile, Who Dis?\" edition",
+    "date": "2022-03-09T08:50:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 348,
+    "manifestId": "461647593765554581",
+    "updateName": "the \"New Profile, Who Dis?\" edition A",
+    "date": "2022-03-16T06:50:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 349,
+    "manifestId": "6498111350645449747",
+    "updateName": "the \"New Profile, Who Dis?\" edition B",
+    "date": "2022-03-23T06:55:51Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 350,
+    "manifestId": "4860694567153974568",
+    "updateName": "the \"Say Cheese\" edition",
+    "date": "2022-03-30T06:50:13Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 351,
+    "manifestId": "3300297416944352195",
+    "updateName": "the \"Say Cheese\" edition A",
+    "date": "2022-04-08T06:52:23Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 352,
+    "manifestId": "5074805288827523797",
+    "updateName": "the \"Say Cheese\" edition B",
+    "date": "2022-04-15T06:50:51Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 353,
+    "manifestId": "3357294209222359997",
+    "updateName": "the \"Prom\" edition",
+    "date": "2022-04-21T06:50:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 354,
+    "manifestId": "7515621376213891010",
+    "updateName": "the \"Prom\" edition",
+    "date": "2022-04-28T06:50:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 355,
+    "manifestId": "2586133705164702202",
+    "updateName": "the \"Under Construction\" edition",
+    "date": "2022-05-12T06:50:19Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 356,
+    "manifestId": "6337851004861751095",
+    "updateName": "the \"Under Construction\" edition A",
+    "date": "2022-05-19T06:50:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 357,
+    "manifestId": "7338854173587998091",
+    "updateName": "Special Steam Only Update - Room Loading edition",
+    "date": "2022-05-26T19:05:05Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 358,
+    "manifestId": "8888693203251550795",
+    "updateName": "Special Steam Only Update - Room Loading edition",
+    "date": "2022-05-27T07:01:18Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 359,
+    "manifestId": "236902306177435419",
+    "updateName": "Special Steam Only Update - Room Loading edition V2",
+    "date": "2022-06-01T06:50:31Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 360,
+    "manifestId": "4854090034908693480",
+    "updateName": "Special Steam Only Update - Room Loading edition V2",
+    "date": "2022-06-01T18:58:22Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 361,
+    "manifestId": "961533153813920743",
+    "updateName": "Special Steam Only Update - Room Loading edition V3",
+    "date": "2022-06-07T21:21:22Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 362,
+    "manifestId": "9199251899543670990",
+    "updateName": "Special Steam Only Update - Room Loading edition V3",
+    "date": "2022-06-08T06:51:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 363,
+    "manifestId": "4566810486378348136",
+    "updateName": "the \"Custom Shirts\" edition",
+    "date": "2022-06-15T06:51:17Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 364,
+    "manifestId": "1732080516995195175",
+    "updateName": "the \"Custom Shirts\" edition A",
+    "date": "2022-06-23T06:51:48Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 365,
+    "manifestId": "1921299718921527250",
+    "updateName": "the \"In Control\" edition",
+    "date": "2022-07-01T06:50:38Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 366,
+    "manifestId": "881604451007931132",
+    "updateName": "the \"In Control\" edition",
+    "date": "2022-07-07T06:50:26Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 367,
+    "manifestId": "7162979009930249066",
+    "updateName": "the \"In Control\" edition",
+    "date": "2022-07-15T06:51:19Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 368,
+    "manifestId": "6169428350444980687",
+    "updateName": "the \"In Control\" edition",
+    "date": "2022-07-19T06:50:44Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 369,
+    "manifestId": "4153466988165490530",
+    "updateName": "the \"Showdown\" edition",
+    "date": "2022-08-08T15:03:44Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 370,
+    "manifestId": "2800278753880416318",
+    "updateName": "the \"Showdown\" edition",
+    "date": "2022-08-16T06:50:38Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 371,
+    "manifestId": "8345686888801411116",
+    "updateName": "the \"Showdown\" edition",
+    "date": "2022-08-26T07:03:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 372,
+    "manifestId": "7157483552442540406",
+    "updateName": "the \"Showdown\" edition A",
+    "date": "2022-09-16T08:03:21Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 373,
+    "manifestId": "551787151803862015",
+    "updateName": "the \"Showdown\" edition B",
+    "date": "2022-09-27T06:50:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 374,
+    "manifestId": "3355317463165895317",
+    "updateName": "the \"Off the Old Block\" edition",
+    "date": "2022-10-12T06:50:27Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 375,
+    "manifestId": "8775136119731514791",
+    "updateName": "the \"Off the Old Block\" edition",
+    "date": "2022-10-12T23:57:16Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 376,
+    "manifestId": "762517316174093406",
+    "updateName": "the \"Off the Old Block\" edition A",
+    "date": "2022-10-18T05:22:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 377,
+    "manifestId": "820917770793392229",
+    "updateName": "the \"Off the Old Block\" edition A",
+    "date": "2022-10-20T05:42:47Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 378,
+    "manifestId": "659948890231840019",
+    "updateName": "the \"Off the Old Block\" edition A",
+    "date": "2022-10-21T07:30:30Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 379,
+    "manifestId": "8840536006495440831",
+    "updateName": "the \"For Local Eyes Only\" edition",
+    "date": "2022-11-04T06:50:25Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 380,
+    "manifestId": "6876963500265329822",
+    "updateName": "the \"For Local Eyes Only\" edition A",
+    "date": "2022-11-15T08:50:15Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 381,
+    "manifestId": "6687345382794859242",
+    "updateName": "the \"Winter Wonderland '22\" edition",
+    "date": "2022-11-29T08:59:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 382,
+    "manifestId": "5117901179774428863",
+    "updateName": "the \"Winter Wonderland '22\" edition A",
+    "date": "2022-12-07T08:59:38Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 383,
+    "manifestId": "1763766882994984095",
+    "updateName": "the \"Winter Wonderland '22\" edition B",
+    "date": "2022-12-12T12:49:27Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 384,
+    "manifestId": "3370145490550225268",
+    "updateName": "the \"Winter Wonderland '22\" edition B",
+    "date": "2022-12-15T08:52:16Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 385,
+    "manifestId": "3469313776165566745",
+    "updateName": "the \"Not in '87 anymore\" edition A",
+    "date": "2023-01-04T08:50:38Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 386,
+    "manifestId": "5270596667741297723",
+    "updateName": "the \"Holy Update, Coach!\" edition",
+    "date": "2023-01-25T08:50:19Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 387,
+    "manifestId": "6555528852274245330",
+    "updateName": "the \"Holy Update, Coach!\" edition",
+    "date": "2023-01-31T08:50:31Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 388,
+    "manifestId": "5765300808718942018",
+    "updateName": "the \"Holy Update, Coach!\" edition A",
+    "date": "2023-02-08T08:50:17Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 389,
+    "manifestId": "2052477997406779909",
+    "updateName": "the \"Holy Update, Coach!\" edition B",
+    "date": "2023-02-15T08:50:31Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 390,
+    "manifestId": "9418775692376180",
+    "updateName": "the \"Holy Update, Coach!\" edition C",
+    "date": "2023-02-22T08:51:22Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 391,
+    "manifestId": "8992273859417381915",
+    "updateName": "the \"Holy Update, Coach!\" edition D",
+    "date": "2023-02-28T08:50:41Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 392,
+    "manifestId": "7859140924515540835",
+    "updateName": "the \"Shape Up!\" edition",
+    "date": "2023-03-07T08:51:12Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 393,
+    "manifestId": "7490748483298966814",
+    "updateName": "the \"All That and a Bag of Chips\" edition",
+    "date": "2023-03-21T06:50:51Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 394,
+    "manifestId": "5824157029437961211",
+    "updateName": "the \"All That and a Bag of Chips\" edition A",
+    "date": "2023-03-29T06:48:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 395,
+    "manifestId": "848843038097524282",
+    "updateName": "the \"All That and a Bag of Chips\" edition B",
+    "date": "2023-04-05T07:15:57Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 396,
+    "manifestId": "3668280474894052876",
+    "updateName": "the \"All That and a Bag of Chips\" edition C",
+    "date": "2023-04-12T07:20:33Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 397,
+    "manifestId": "6426603215211043630",
+    "updateName": "the \"All That and a Bag of Chips\" edition D",
+    "date": "2023-04-18T06:58:58Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 398,
+    "manifestId": "3179202846015471249",
+    "updateName": "the \"All That and a Bag of Chips\" edition E",
+    "date": "2023-04-28T06:56:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 399,
+    "manifestId": "7964146900306639517",
+    "updateName": "the \"All That and a Bag of Chips\" edition F",
+    "date": "2023-05-04T06:52:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 400,
+    "manifestId": "7937910774525923188",
+    "updateName": "the \"All That and a Bag of Chips\" edition G",
+    "date": "2023-05-09T07:03:49Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 401,
+    "manifestId": "1393626442295079667",
+    "updateName": "the \"Extreme Fire Crunch\" flavor",
+    "date": "2023-05-16T06:52:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 402,
+    "manifestId": "4740985908673535094",
+    "updateName": "the \"Extreme Fire Crunch\" edition A",
+    "date": "2023-05-23T07:10:02Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 403,
+    "manifestId": "8404983718530149913",
+    "updateName": "the \"Extreme Fire Crunch\" edition A",
+    "date": "2023-05-24T06:48:07Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 404,
+    "manifestId": "3871089161177763736",
+    "updateName": "the \"Extreme Fire Crunch\" edition A",
+    "date": "2023-05-25T06:46:32Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 405,
+    "manifestId": "2899699302988044876",
+    "updateName": "the \"Extreme Fire Crunch\" edition B",
+    "date": "2023-06-01T07:03:04Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 406,
+    "manifestId": "8537241752728172403",
+    "updateName": "the \"Extreme Fire Crunch\" edition C",
+    "date": "2023-06-08T07:00:56Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 407,
+    "manifestId": "3332492622123310277",
+    "updateName": "the \"Extreme Fire Crunch\" edition D",
+    "date": "2023-06-21T07:02:21Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 408,
+    "manifestId": "5880835316020350693",
+    "updateName": "the \"Home Sweet Home\" edition",
+    "date": "2023-07-04T06:54:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 409,
+    "manifestId": "4793924942413513187",
+    "updateName": "the \"Home Sweet Home\" edition A",
+    "date": "2023-07-25T07:53:22Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 410,
+    "manifestId": "9217725912799522860",
+    "updateName": "the \"Home Sweet Home\" edition B",
+    "date": "2023-08-01T06:54:11Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 411,
+    "manifestId": "9133461583667187446",
+    "updateName": "the \"Home Sweet Home\" edition C",
+    "date": "2023-08-11T06:53:01Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 412,
+    "manifestId": "2764981199382899843",
+    "updateName": "the \"Home Sweet Home\" edition D",
+    "date": "2023-08-16T06:55:17Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 413,
+    "manifestId": "374773384974353755",
+    "updateName": "the \"Make it to Midnight\" edition Coach",
+    "date": "2023-08-29T06:53:33Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 414,
+    "manifestId": "1957069142347218099",
+    "updateName": "the \"Make it to Midnight\" edition A",
+    "date": "2023-09-06T06:53:47Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 415,
+    "manifestId": "8029989743532624950",
+    "updateName": "the \"Make it to Midnight\" edition B",
+    "date": "2023-09-12T06:54:13Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 416,
+    "manifestId": "6807363228187770433",
+    "updateName": "the \"Coming to a Beta Near You\" edition",
+    "date": "2023-09-25T06:53:51Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 417,
+    "manifestId": "985321264749448722",
+    "updateName": "the \"Coming to a Beta Near You\" edition",
+    "date": "2023-10-03T06:54:50Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 418,
+    "manifestId": "741108841480851070",
+    "updateName": "the \"Coming to a Beta Near You\" edition",
+    "date": "2023-10-11T06:50:57Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 419,
+    "manifestId": "6377193315466269595",
+    "updateName": "the \"Coming to a Beta Near You\" edition A",
+    "date": "2023-10-17T06:54:01Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 420,
+    "manifestId": "6523299621521228118",
+    "updateName": "the \"Coming to a Beta Near You\" edition A",
+    "date": "2023-10-25T07:40:51Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 421,
+    "manifestId": "5010952225264392497",
+    "updateName": "the \"Coming to a Beta Near You\" edition A",
+    "date": "2023-10-31T07:38:57Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 422,
+    "manifestId": "7244465739539340913",
+    "updateName": "the \"Coming to a Beta Near You\" edition B",
+    "date": "2023-11-08T09:55:13Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 423,
+    "manifestId": "4365752376751232996",
+    "updateName": "the \"Coming to a Beta Near You\" edition B",
+    "date": "2023-11-16T09:07:46Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 424,
+    "manifestId": "7814702273218619742",
+    "updateName": "the \"Coming to a Beta Near You\" edition C",
+    "date": "2023-11-29T08:58:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 425,
+    "manifestId": "6938552653301008037",
+    "updateName": "the \"Coming to a Beta Near You\" edition D",
+    "date": "2023-12-05T08:53:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 426,
+    "manifestId": "5662739698108751330",
+    "updateName": "the \"Coming to a Beta Near You\" edition E",
+    "date": "2023-12-12T08:50:49Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 427,
+    "manifestId": "9010071090979861071",
+    "updateName": "the \"Coming to a Beta Near You\" edition E",
+    "date": "2023-12-20T02:51:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 428,
+    "manifestId": "4679290839791781862",
+    "updateName": "the \"Too Much to Handles\" edition",
+    "date": "2024-01-03T09:43:01Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 429,
+    "manifestId": "308727989146846911",
+    "updateName": "the \"Too Much to Handles\" edition",
+    "date": "2024-01-11T09:12:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 430,
+    "manifestId": "1615453195711060398",
+    "updateName": "the \"Too Much to Handles\" edition A",
+    "date": "2024-01-17T08:53:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 431,
+    "manifestId": "7538549210248930609",
+    "updateName": "the \"Too Much to Handles\" edition B",
+    "date": "2024-01-22T08:52:29Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 432,
+    "manifestId": "3580612710450248671",
+    "updateName": "the \"Too Much to Handles\" edition C",
+    "date": "2024-02-06T09:01:55Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 433,
+    "manifestId": "6056369444322966638",
+    "updateName": "the \"Too Much to Handles\" edition D",
+    "date": "2024-02-14T09:04:41Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 434,
+    "manifestId": "4136799246692151085",
+    "updateName": "the \"Too Much to Handles\" edition E",
+    "date": "2024-02-23T08:54:23Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 435,
+    "manifestId": "4661643829095287654",
+    "updateName": "the \"Too Much to Handles\" edition F",
+    "date": "2024-02-29T09:08:23Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 436,
+    "manifestId": "9065863366348518039",
+    "updateName": "the \"Too Much to Handles\" edition G",
+    "date": "2024-03-05T08:52:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 437,
+    "manifestId": "5074502921936812721",
+    "updateName": "the \"Reloaded\" edition",
+    "date": "2024-03-12T06:55:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 438,
+    "manifestId": "1458124650158979929",
+    "updateName": "the \"Reloaded\" edition A",
+    "date": "2024-03-19T06:55:56Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 439,
+    "manifestId": "6037351929700171145",
+    "updateName": "the \"Reloaded\" edition B",
+    "date": "2024-03-26T06:55:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 440,
+    "manifestId": "7422425414306310586",
+    "updateName": "the \"Look, Ma! My Hands are Reoriented!\" edition",
+    "date": "2024-04-02T07:14:03Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 441,
+    "manifestId": "8282093336561471909",
+    "updateName": "the \"Look, Ma! My Hands are Reoriented!\" edition A",
+    "date": "2024-04-16T07:15:21Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 442,
+    "manifestId": "26877756150516332",
+    "updateName": "the \"Look, Ma! My Hands are Reoriented!\" edition B",
+    "date": "2024-04-23T07:06:03Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 443,
+    "manifestId": "5435987833748758134",
+    "updateName": "the \"Just a Few More Shapes\" edition C",
+    "date": "2024-05-01T07:00:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 444,
+    "manifestId": "5362011193175207496",
+    "updateName": "the \"Copy/Paste\" edition",
+    "date": "2024-05-07T06:56:13Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 445,
+    "manifestId": "5851953791034525670",
+    "updateName": "the \"I'm Famous in Rooms 2\" edition",
+    "date": "2024-05-14T06:51:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 446,
+    "manifestId": "7655826242207283508",
+    "updateName": "the \"It's YOU in CV2!\" edition",
+    "date": "2024-05-30T07:02:22Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 447,
+    "manifestId": "1137019279538594418",
+    "updateName": "the \"Pathfinder\" Update",
+    "date": "2024-06-04T07:02:45Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 448,
+    "manifestId": "5490125335238810347",
+    "updateName": "the \"Fun with Functions!\" edition",
+    "date": "2024-06-12T07:26:32Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 449,
+    "manifestId": "4693734114666223331",
+    "updateName": "the \"Full Body Beta Buddies\" edition",
+    "date": "2024-06-18T07:06:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 450,
+    "manifestId": "5652464073904128818",
+    "updateName": "the \"Full Body Beta Buddies\" edition",
+    "date": "2024-06-26T06:54:20Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 451,
+    "manifestId": "3373172787447430639",
+    "updateName": "the \"Free Movement\" edition",
+    "date": "2024-07-02T06:59:22Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 452,
+    "manifestId": "3363075876706160090",
+    "updateName": "the \"Hands-On\" edition",
+    "date": "2024-07-09T06:59:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 453,
+    "manifestId": "4669367512185110570",
+    "updateName": "the \"Hands-On\" edition",
+    "date": "2024-07-11T22:31:59Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 454,
+    "manifestId": "8488170595437314766",
+    "updateName": "the \"Hands-On\" edition",
+    "date": "2024-07-15T23:21:53Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 455,
+    "manifestId": "3479900285721261675",
+    "updateName": "the \"Strike a (hand) pose\" Edition",
+    "date": "2024-07-23T07:01:09Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 456,
+    "manifestId": "2083545682007689500",
+    "updateName": "the \"My Little Template\" Edition",
+    "date": "2024-07-30T07:05:23Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 457,
+    "manifestId": "7266219387410144688",
+    "updateName": "the \"We added a TLDR Section!\" Edition",
+    "date": "2024-08-06T07:01:00Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 458,
+    "manifestId": "7267876679868989367",
+    "updateName": "the \"Bool spits lazy facts\" Edition",
+    "date": "2024-08-10T02:47:10Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 459,
+    "manifestId": "1664414749991987435",
+    "updateName": "the \"Bool spits lazy facts\" Edition",
+    "date": "2024-08-20T07:07:46Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 460,
+    "manifestId": "8465732950954643512",
+    "updateName": "the \"All That and a Bag of Chips\" Edition",
+    "date": "2024-09-05T07:21:53Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 461,
+    "manifestId": "4046439875324949060",
+    "updateName": "the \"Fall Cleaning\" Edition",
+    "date": "2024-09-09T21:20:51Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 462,
+    "manifestId": "1881688635234658950",
+    "updateName": "the \"Fall Cleaning\" Edition",
+    "date": "2024-09-12T01:09:13Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 463,
+    "manifestId": "4327100664994006089",
+    "updateName": "the \"Upgraded Bean\" Edition",
+    "date": "2024-09-17T06:51:00Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 464,
+    "manifestId": "8540041622829693467",
+    "updateName": "the \"Nothing to See Here\" Edition",
+    "date": "2024-09-24T07:31:08Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 465,
+    "manifestId": "6807084120720358744",
+    "updateName": "the \"Fully Functioning\" Edition",
+    "date": "2024-10-01T06:59:54Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 466,
+    "manifestId": "5251938487853430700",
+    "updateName": "the \"Rectober 2024\" Edition",
+    "date": "2024-10-08T06:48:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 467,
+    "manifestId": "2403118169275361721",
+    "updateName": "the \"Updated Update\" Edition",
+    "date": "2024-10-19T00:53:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 468,
+    "manifestId": "3055994708570194061",
+    "updateName": "the \"Place Precisely\" Edition",
+    "date": "2024-10-29T07:01:39Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 469,
+    "manifestId": "6822963217514328877",
+    "updateName": "the \"Little Wonders\" Edition",
+    "date": "2024-11-14T08:52:38Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 470,
+    "manifestId": "1889796903623746342",
+    "updateName": "the \"The Big One\" Edition",
+    "date": "2024-11-23T09:25:31Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 471,
+    "manifestId": "1648927095957784968",
+    "updateName": "the \"Last of the Year\" Edition",
+    "date": "2024-12-10T08:58:22Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 472,
+    "manifestId": "4933790116587996222",
+    "updateName": "the \"First of the Year\" Edition",
+    "date": "2025-01-15T08:59:20Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 473,
+    "manifestId": "4718136326923827337",
+    "updateName": "the \"First of the Year\" Edition",
+    "date": "2025-01-23T08:58:50Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 474,
+    "manifestId": "3061083278700666407",
+    "updateName": "the \"Road to Rooms 2\" Edition",
+    "date": "2025-01-28T08:59:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 475,
+    "manifestId": "1377106309650123419",
+    "updateName": "the \"You Might Wanna Sit Down For This\" Edition",
+    "date": "2025-02-04T08:53:39Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 476,
+    "manifestId": "4265884563596276308",
+    "updateName": "the \"You Might Wanna Sit Down For This\" Edition",
+    "date": "2025-02-04T23:55:21Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 477,
+    "manifestId": "4975147505187516155",
+    "updateName": "the \"You Might Wanna Sit Down For This\" Edition",
+    "date": "2025-02-06T08:59:28Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 478,
+    "manifestId": "1307792423933311808",
+    "updateName": "the \"Replicated Chips & Guacamole\" Edition",
+    "date": "2025-02-19T08:55:04Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 479,
+    "manifestId": "5919466227319473704",
+    "updateName": "the \"Configure This\" Edition",
+    "date": "2025-02-26T23:36:50Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 480,
+    "manifestId": "3160357489632006647",
+    "updateName": "the \"Configure This\" Edition",
+    "date": "2025-02-27T09:02:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 481,
+    "manifestId": "3489955068769125465",
+    "updateName": "the \"FBA Sliders and Torso Chips\" Edition",
+    "date": "2025-03-04T09:04:25Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 482,
+    "manifestId": "6607480439355431189",
+    "updateName": "the \"1Hz Donut\" Edition",
+    "date": "2025-03-11T06:55:46Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 483,
+    "manifestId": "5097803856103801623",
+    "updateName": "the \"Eyes and Eyebrows and Mouth and Nose\" Edition",
+    "date": "2025-03-18T07:13:06Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 484,
+    "manifestId": "1582756493765280660",
+    "updateName": "the \"Pick your nose\" Edition",
+    "date": "2025-03-25T07:07:29Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 485,
+    "manifestId": "6031743046296505373",
+    "updateName": "the \"Get rotated\" Edition",
+    "date": "2025-04-03T06:59:32Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 486,
+    "manifestId": "8338846524221672669",
+    "updateName": "the \"Paint Your Body\" Edition",
+    "date": "2025-04-09T07:00:13Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 487,
+    "manifestId": "2641180519279006617",
+    "updateName": "the \"Paint Your Body\" Edition",
+    "date": "2025-04-14T06:58:37Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 488,
+    "manifestId": "7669000341793927604",
+    "updateName": "the \"Golden Week\" Edition",
+    "date": "2025-04-29T06:57:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 489,
+    "manifestId": "7642320520027040829",
+    "updateName": "the \"See Yourself in Rooms 2\" Edition",
+    "date": "2025-05-06T07:00:16Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 490,
+    "manifestId": "3135954666694521720",
+    "updateName": "the \"See Yourself in Rooms 2\" Edition",
+    "date": "2025-05-07T21:52:20Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 491,
+    "manifestId": "2723633102278705532",
+    "updateName": "the \"Bye Bye Bear!\" Edition",
+    "date": "2025-05-15T06:49:58Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 492,
+    "manifestId": "4391839698241684482",
+    "updateName": "the \"Find your Path\" Edition",
+    "date": "2025-05-20T06:55:57Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 493,
+    "manifestId": "3016417837066142366",
+    "updateName": "the \"Standing Slide\" Edition",
+    "date": "2025-05-28T07:01:17Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 494,
+    "manifestId": "5080664627536454461",
+    "updateName": "the \"Vrooms 2\" Edition",
+    "date": "2025-06-04T06:51:35Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 495,
+    "manifestId": "6443677471211267578",
+    "updateName": "the \"Aura Maxxing\" Edition",
+    "date": "2025-06-10T06:58:40Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 496,
+    "manifestId": "7050735886667230571",
+    "updateName": "the \"Welcome, Roomie!\" Edition",
+    "date": "2025-06-17T06:58:11Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 497,
+    "manifestId": "1659458336211614018",
+    "updateName": "the \"National Hydration Day\" Edition",
+    "date": "2025-06-24T07:27:22Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 498,
+    "manifestId": "7447577248175360966",
+    "updateName": "the \"Sub or Dub?\" Edition",
+    "date": "2025-07-01T07:00:23Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 499,
+    "manifestId": "5784366418961596444",
+    "updateName": "the \"Roomie, Fetch!\" Edition",
+    "date": "2025-07-08T07:06:28Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 500,
+    "manifestId": "8664154683846864732",
+    "updateName": "the \"That's my Good Board\" Edition",
+    "date": "2025-07-15T06:55:20Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 501,
+    "manifestId": "1151455856673601091",
+    "updateName": null,
+    "date": "2025-07-19T02:45:25Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 502,
+    "manifestId": "7899039937464568984",
+    "updateName": "the \"Can Edit Circuits\" Edition",
+    "date": "2025-07-29T06:58:32Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 503,
+    "manifestId": "7899039937464568984",
+    "updateName": "the \"Can Edit Circuits\" Edition",
+    "date": "2025-07-29T06:58:32Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 504,
+    "manifestId": "4076191025518986358",
+    "updateName": "the \"Colorful Clouds\" Edition",
+    "date": "2025-08-05T06:50:07Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 505,
+    "manifestId": "5520001881224031112",
+    "updateName": "the \"Colorful Clouds\" Edition",
+    "date": "2025-08-05T22:19:31Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 506,
+    "manifestId": "2184557283794062898",
+    "updateName": "the \"Sharing is Caring\" Edition",
+    "date": "2025-08-12T06:48:24Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 507,
+    "manifestId": "5207631570671408651",
+    "updateName": "the \"Sharing is Caring\" Edition",
+    "date": "2025-08-13T03:36:20Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 508,
+    "manifestId": "5466215512543998100",
+    "updateName": "the \"Snap and Point\" Edition",
+    "date": "2025-08-19T07:05:32Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 509,
+    "manifestId": "2657302048456713518",
+    "updateName": "the \"New Shipnotes Format\" Edition",
+    "date": "2025-09-23T07:01:43Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 510,
+    "manifestId": "6772702290242464450",
+    "updateName": "the \"New Shipnotes Format\" Edition",
+    "date": "2025-10-02T21:49:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 511,
+    "manifestId": "1418906901253545526",
+    "updateName": "the \"Rectober 2024\" Edition",
+    "date": "2025-10-08T07:08:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 512,
+    "manifestId": "8319517313915785243",
+    "updateName": "the \"Paintball Lobby\" Edition",
+    "date": "2025-10-15T06:58:50Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 513,
+    "manifestId": "5388506239382367453",
+    "updateName": "the \"Paintball Lobby\" Edition",
+    "date": "2025-10-17T06:57:02Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 514,
+    "manifestId": "7169438661392841727",
+    "updateName": "the \"Paintball Map Update\" Edition",
+    "date": "2025-10-22T07:00:51Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 515,
+    "manifestId": "337786162060137721",
+    "updateName": "the \"Paintball Map Update\" Edition",
+    "date": "2025-10-27T19:10:58Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 516,
+    "manifestId": "3646542717021497857",
+    "updateName": "the \"Hide-and-Seek\" Edition",
+    "date": "2025-11-10T09:35:41Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 517,
+    "manifestId": "4180503790721825891",
+    "updateName": "the \"Winter Wonderland 25\" Edition",
+    "date": "2025-12-02T08:58:18Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 518,
+    "manifestId": "1575219647815408492",
+    "updateName": "the \"Winter Wonderland 25\" Edition",
+    "date": "2025-12-03T05:54:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 519,
+    "manifestId": "4087482288272916117",
+    "updateName": "the \"Winter Wonderland 25\" Edition",
+    "date": "2025-12-08T09:00:30Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 520,
+    "manifestId": "8170740399094045439",
+    "updateName": "Our Final Update of 2025",
+    "date": "2026-01-06T08:53:34Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 521,
+    "manifestId": "4119355694530669499",
+    "updateName": "the \"First of the Year\" Edition",
+    "date": "2026-01-09T23:28:37Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 522,
+    "manifestId": "4481515854550855182",
+    "updateName": "the \"\"First of the Year\"\" Edition\"",
+    "date": "2026-01-22T08:57:11Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 523,
+    "manifestId": "8084364846408833108",
+    "updateName": "the \"Disco Dodgeball\" edition",
+    "date": "2026-02-10T08:54:21Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 524,
+    "manifestId": "661297060255129083",
+    "updateName": "the \"Couple Small Things\" update",
+    "date": "2026-03-11T19:22:28Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 525,
+    "manifestId": "5037299340901764828",
+    "updateName": "the \"School's out\" edition",
+    "date": "2026-03-31T03:05:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 526,
+    "manifestId": "4057216026455312391",
+    "updateName": "Exporting your Creation Data",
+    "date": "2026-04-06T21:17:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 527,
+    "manifestId": "2052205507819513496",
+    "updateName": null,
+    "date": "2026-04-07T01:46:39Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 528,
+    "manifestId": "1394970706146016719",
+    "updateName": null,
+    "date": "2026-04-09T20:43:50Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 529,
+    "manifestId": "4979533506678199900",
+    "updateName": null,
+    "date": "2026-04-10T20:15:42Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 530,
+    "manifestId": "6024791104443738689",
+    "updateName": null,
+    "date": "2026-04-13T22:25:41Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 531,
+    "manifestId": "5624936761361219605",
+    "updateName": null,
+    "date": "2026-04-14T22:12:36Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 532,
+    "manifestId": "3878216159449993838",
+    "updateName": null,
+    "date": "2026-04-16T21:27:24Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 533,
+    "manifestId": "6145137735709303841",
+    "updateName": null,
+    "date": "2026-04-21T21:25:26Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 534,
+    "manifestId": "1998964058363147943",
+    "updateName": null,
+    "date": "2026-04-24T00:46:45Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 535,
+    "manifestId": "1779960854709169350",
+    "updateName": null,
+    "date": "2026-04-30T22:42:58Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 536,
+    "manifestId": "1511638405562826818",
+    "updateName": null,
+    "date": "2026-05-06T19:17:46Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 537,
+    "manifestId": "4246879031347330887",
+    "updateName": null,
+    "date": "2026-05-07T01:03:01Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  },
+  {
+    "id": 538,
+    "manifestId": "8867414017562658247",
+    "updateName": null,
+    "date": "2026-05-12T18:46:14Z",
+    "il2cpp": true,
+    "description": "",
+    "modsToDownload": []
+  }
+]

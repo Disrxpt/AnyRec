@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AnyRec.Models
+{
+    internal class ConfigV2
+    {
+        public string MessageOfTheDay { get; set; }
+        public MatchmakingParams MatchmakingParams { get; set; }
+        public Objective[][] DailyObjectives { get; set; }
+        public List<ConfigTable> ConfigTable { get; set; }
+    }
+    public class ConfigTable
+    {
+        public string Key { get; set; }
+        public string Value { get; set; }
+    }
+    public class MatchmakingParams
+    {
+        public float PreferFullRoomsFrequency { get; set; }
+        public float PreferEmptyRoomsFrequency { get; set; }
+    }
+}

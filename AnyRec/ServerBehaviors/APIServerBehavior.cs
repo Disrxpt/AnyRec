@@ -1,0 +1,68 @@
+﻿using AnyRec.Backend;
+using AnyRec.Models;
+using AnyRec.Server;
+using System;
+using System.Collections.Generic;
+using System.Net;
+using System.Security;
+using System.Text;
+
+namespace AnyRec.ServerBehaviors
+{
+    internal class APIServerBehavior : ServerBehavior
+    {
+        public APIServerBehavior()
+        {
+            this.Port = 3000;
+            this.Name = "API";
+            this.Listener = APIServerBehavior.Listen;
+        }
+        public static byte[] Listen(HttpListenerContext ctx)
+        {
+            string api = ctx.Request.Url.AbsolutePath;
+            string postdata = "";
+            using (MemoryStream memoryStream = new MemoryStream())
+            {
+                ctx.Request.InputStream.CopyTo(memoryStream);
+                byte[] p_array = memoryStream.ToArray();
+                postdata = Encoding.ASCII.GetString(p_array);
+            }
+            byte[] response = Bytes.StringToByte("[]");
+            if (api == "/api/players/v1/")
+            {
+                response = Bytes.JsonObjectToByte(new _2016PlayerModel
+                {
+                    Id = 1,
+                    Username = "Placeholder",
+                    DisplayName = "Placeholder",
+                    Level = 1,
+                    Reputation = 1,
+                    Verified = true,
+                    XP = 1
+                });
+            }
+            else if (api == "/api/players/v1/getorcreate")
+            {
+                response = Bytes.JsonObjectToByte(new _2016PlayerModel
+                {
+                    Id = 1,
+                    Username = "Placeholder",
+                    DisplayName = "Placeholder",
+                    Level = 1,
+                    Reputation = 1,
+                    Verified = true,
+                    XP = 1
+                });
+            }
+            else if (api == "/api/config/v2")
+                response = Bytes.JsonObjectToByte(Configs.GetConfigSettings());
+            else if (api == "/api/config/v1/objectives")
+                response = Bytes.JsonObjectToByte(Objectives.LoadObjectives());
+            else if (api == "/api/config/v1/motd")
+                response = Bytes.StringToByte("Welcome to AnyRec by ImagineHacking");
+            else if (api == "/api/avatar/v2")
+                response = Bytes.JsonObjectToByte(Avatar.GetAvatar());
+            return response;
+        }
+    }
+}

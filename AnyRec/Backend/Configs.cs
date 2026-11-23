@@ -1,0 +1,37 @@
+﻿using AnyRec.Models;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace AnyRec.Backend
+{
+    internal class Configs
+    {
+        public static ConfigV2 GetConfigSettings()
+        {
+            return new ConfigV2
+            {
+                MatchmakingParams = new MatchmakingParams
+                {
+                    PreferEmptyRoomsFrequency = 0.0f,
+                    PreferFullRoomsFrequency = 0.0f
+                },
+                DailyObjectives = Objectives.LoadObjectives(),
+                MessageOfTheDay = "Welcome to AnyRec by ImagineHacking.",
+                ConfigTable = new List<ConfigTable>
+                {
+                    new ConfigTable
+                    {
+                        Key = "Gift.DropChance",
+                        Value = "0.5"
+                    },
+                    new ConfigTable
+                    {
+                        Key = "Gift.XP",
+                        Value = "10"
+                    },
+                }
+            };
+        }
+    }
+}
