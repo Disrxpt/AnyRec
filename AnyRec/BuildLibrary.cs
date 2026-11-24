@@ -156,7 +156,7 @@ namespace AnyRec
             Console.WriteLine("[>] Deleting \".DepotDownloader/\"...");
             Directory.Delete(directory + ".DepotDownloader/", true);
             Console.WriteLine("[>] Creating \"steam_appid.txt\"...");
-            File.WriteAllText(directory + "steam_appid.txt", "471710");
+            File.WriteAllText(directory + "steam_appid.txt", "480");
             if (buildinformation.Il2cpp)
             {
                 Console.WriteLine("[>] Downloading Bepinex 6 (Il2cpp)...");
