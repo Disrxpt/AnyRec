@@ -27,6 +27,10 @@ namespace AnyRec
                 {
                     choices.Add($"{build.Id} - {build.Date.ToString()} | {build.UpdateName} [INSTALLED]");
                 }
+                else if (build.Id > BuildLibrary.LatestSupported && !Config.GetBool("DeveloperMode"))
+                {
+                    continue;
+                }
                 else
                 {
                     choices.Add($"{build.Id} - {build.Date.ToString()} | {build.UpdateName}");

@@ -39,6 +39,10 @@ namespace AnyRec.ServerBehaviors
                 Avatar.SetAvatar(newavatar);
                 response = Bytes.JsonObjectToByte(new GenericMessage { Success = true, Message = "Updated avatar." });
             }
+            else
+            {
+                Logging.Warning("API", $"{api} is unsupported, returning blank response.");
+            }
             return response;
         }
     }
