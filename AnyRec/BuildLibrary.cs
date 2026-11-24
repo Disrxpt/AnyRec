@@ -14,6 +14,7 @@ namespace AnyRec
     internal class BuildLibrary
     {
         public static int BuildId;
+        public static int LatestSupported = 45;
         public static void Load()
         {
             Console.Clear();

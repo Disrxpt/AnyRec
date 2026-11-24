@@ -30,7 +30,7 @@ namespace AnyRec.Tools
                 {
                     vers.ModsToDownload.Add("OldRecNetPatch2.dll");
                 }
-                else if (vers.Id >= 42)
+                else if (vers.Id >= 42 && vers.Id <= 45)
                 {
                     vers.ModsToDownload.Add("RecNetMonoPatch.dll");
                 }

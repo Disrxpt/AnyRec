@@ -19,16 +19,9 @@ namespace AnyRec.ServerBehaviors
             this.Name = "API";
             this.Listener = APIServerBehavior.Listen;
         }
-        public static byte[] Listen(HttpListenerContext ctx)
+        public static byte[] Listen(HttpListenerContext ctx, string postdata)
         {
             string api = ctx.Request.Url.AbsolutePath;
-            string postdata = "";
-            using (MemoryStream memoryStream = new MemoryStream())
-            {
-                ctx.Request.InputStream.CopyTo(memoryStream);
-                byte[] p_array = memoryStream.ToArray();
-                postdata = Encoding.ASCII.GetString(p_array);
-            }
             byte[] response = Bytes.StringToByte("[]");
             if (api == "/api/players/v1/" || api == "/api/players/v1/getorcreate")
                 response = Bytes.JsonObjectToByte(ProfileHandler.Get2017Profile());

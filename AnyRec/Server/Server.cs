@@ -42,7 +42,7 @@ namespace AnyRec.Server
                     {
                         ctx.Request.InputStream.CopyTo(memoryStream);
                         byte[] p_array = memoryStream.ToArray();
-                        p = Encoding.ASCII.GetString(p_array);
+                        p = Encoding.UTF8.GetString(p_array);
                     }
                     ctx.Response.Headers["Last-Modified"] = DateTime.UtcNow.ToString("R");
                     Logging.Info(this.behavior.Name, $"URI was requested [{ctx.Request.RawUrl}]");
@@ -52,7 +52,7 @@ namespace AnyRec.Server
                     }
                     if (listening)
                     {
-                        byte[] array = this.behavior.Listener(ctx);
+                        byte[] array = this.behavior.Listener(ctx, p);
                         ctx.Response.StatusCode = 200;
                         ctx.Response.ContentLength64 = array.Length;
                         await ctx.Response.OutputStream.WriteAsync(array);
