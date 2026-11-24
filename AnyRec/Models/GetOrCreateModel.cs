@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AnyRec.Models
 {
-    internal class _2016PlayerModel
+    internal class GetOrCreateModel
     {
         public int Id { get; set; }
         public string Username { get; set; }

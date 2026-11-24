@@ -30,32 +30,8 @@ namespace AnyRec.ServerBehaviors
                 postdata = Encoding.ASCII.GetString(p_array);
             }
             byte[] response = Bytes.StringToByte("[]");
-            if (api == "/api/players/v1/")
-            {
-                response = Bytes.JsonObjectToByte(new _2016PlayerModel
-                {
-                    Id = 1,
-                    Username = "Placeholder",
-                    DisplayName = "Placeholder",
-                    Level = 1,
-                    Reputation = 1,
-                    Verified = true,
-                    XP = 1
-                });
-            }
-            else if (api == "/api/players/v1/getorcreate")
-            {
-                response = Bytes.JsonObjectToByte(new _2016PlayerModel
-                {
-                    Id = 1,
-                    Username = "Placeholder",
-                    DisplayName = "Placeholder",
-                    Level = 1,
-                    Reputation = 1,
-                    Verified = true,
-                    XP = 1
-                });
-            }
+            if (api == "/api/players/v1/" || api == "/api/players/v1/getorcreate")
+                response = Bytes.JsonObjectToByte(ProfileHandler.Get2017Profile());
             else if (api == "/api/config/v2")
                 response = Bytes.JsonObjectToByte(Configs.GetConfigSettings());
             else if (api == "/api/config/v1/objectives")
