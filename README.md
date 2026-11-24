@@ -24,4 +24,4 @@ If you redistribute AnyRec or a derivative work covered by GPL v3, you must comp
 | 2023 | No current support ❌ |
 | 2024 | No current support ❌ |
 | 2025 | No current support ❌ |
-| 2016 | No current support ❌ |
+| 2026 | No current support ❌ |
