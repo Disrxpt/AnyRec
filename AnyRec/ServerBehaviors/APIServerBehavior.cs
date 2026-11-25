@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Security;
 using System.Text;
+using System.Web;
 
 namespace AnyRec.ServerBehaviors
 {
@@ -23,7 +24,7 @@ namespace AnyRec.ServerBehaviors
         {
             string api = ctx.Request.Url.AbsolutePath;
             byte[] response = Bytes.StringToByte("[]");
-            if (api == "/api/players/v1/" || api == "/api/players/v1/getorcreate")
+            if (api == "/api/players/v1/" || api == "/api/players/v1/getorcreate" || api == $"/api/players/v1/{Config.GetInt("PlayerId")}")
                 response = Bytes.JsonObjectToByte(ProfileHandler.Get2017Profile());
             else if (api == "/api/config/v2")
                 response = Bytes.JsonObjectToByte(Configs.GetConfigSettings());
@@ -33,6 +34,24 @@ namespace AnyRec.ServerBehaviors
                 response = Bytes.StringToByte("Welcome to AnyRec by ImagineHacking");
             else if (api == "/api/avatar/v2" || api == $"/api/avatar/v1/{Config.GetInt("PlayerId")}")
                 response = Bytes.JsonObjectToByte(Avatar.GetAvatar());
+            else if (api == "/api/versioncheck/v1" || api == "/api/versioncheck/v2" || api == "/api/versioncheck/v3")
+                response = Bytes.StringToByte("{\"ValidVersion\":true}");
+            else if (api == $"/api/settings/v1/{Config.GetInt("PlayerId")}" || api == "/api/settings/v2/")
+                response = Bytes.JsonObjectToByte(PlayerSettings.GetPlayerSettings());
+            else if (api == "/api/settings/v1/set")
+            {
+                var namevaluecollection = HttpUtility.ParseQueryString(postdata);
+                PlayerSettings.SetSettings(new Setting
+                {
+                    Key = namevaluecollection["Key"],
+                    Value = namevaluecollection["Value"]
+                });
+            }
+            else if (api == "/api/settings/v2/set")
+            {
+                var setting = JsonConvert.DeserializeObject<Setting>(postdata);
+                PlayerSettings.SetSettings(setting);
+            }
             else if (api == "/api/avatar/v2/set" || api == "/api/avatar/v1/set")
             {
                 AvatarModel newavatar = JsonConvert.DeserializeObject<AvatarModel>(postdata);

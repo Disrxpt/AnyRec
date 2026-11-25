@@ -14,7 +14,7 @@ namespace AnyRec
     internal class BuildLibrary
     {
         public static int BuildId;
-        public static int LatestSupported = 45;
+        public static int LatestSupported = 61;
         public static void Load()
         {
             Console.Clear();
@@ -57,7 +57,6 @@ namespace AnyRec
             var choices = new List<string>();
             if (Directory.Exists($"Builds/{buildinformation.Id}/"))
             {
-                choices.Add("Reinstall Game Files");
                 choices.Add("Uninstall Build");
                 choices.Add("Run Game");
             }
@@ -70,6 +69,12 @@ namespace AnyRec
             if (choice == "Install Game Files")
             {
                 BuildLibrary.DownloadVersion(buildinformation);
+            }
+            else if (choice == "Uninstall Build")
+            {
+                string directory = Path.GetFullPath($"Builds/{buildinformation.Id}/");
+                Directory.Delete(directory, true);
+                BuildLibrary.ShowBuildPage(buildinformation);
             }
             else if (choice == "Return to Library")
             {
@@ -156,7 +161,10 @@ namespace AnyRec
             Console.WriteLine("[>] Deleting \".DepotDownloader/\"...");
             Directory.Delete(directory + ".DepotDownloader/", true);
             Console.WriteLine("[>] Creating \"steam_appid.txt\"...");
-            File.WriteAllText(directory + "steam_appid.txt", "480");
+            if (Config.GetBool("AppId480"))
+                File.WriteAllText(directory + "steam_appid.txt", "480");
+            else
+                File.WriteAllText(directory + "steam_appid.txt", "471710");
             if (buildinformation.Il2cpp)
             {
                 Console.WriteLine("[>] Downloading Bepinex 6 (Il2cpp)...");

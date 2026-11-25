@@ -18,9 +18,13 @@ namespace AnyRec.Tools
             BuildList = JsonConvert.DeserializeObject<List<BuildInformationJson>>(Resources.GetResource("AnyRec.Resources.BuildInformation.json")) ?? new List<BuildInformationJson>();
             foreach (var vers in BuildList)
             {
-                if (vers.Date.Year == 2016)
+                if (vers.Id <= 54)
                 {
                     vers.ModsToDownload.Add("2016PhotonPatch.dll");
+                }
+                else if (vers.Id >= 55)
+                {
+                    vers.ModsToDownload.Add("RecNetObfuscatedPhoton.dll");
                 }
                 if (vers.Id >= 33 && vers.Id <= 38)
                 {
@@ -30,9 +34,13 @@ namespace AnyRec.Tools
                 {
                     vers.ModsToDownload.Add("OldRecNetPatch2.dll");
                 }
-                else if (vers.Id >= 42 && vers.Id <= 45)
+                else if (vers.Id >= 42 && vers.Id <= 54)
                 {
                     vers.ModsToDownload.Add("RecNetMonoPatch.dll");
+                }
+                else if (vers.Id >= 55)
+                {
+                    vers.ModsToDownload.Add("MonoObfuscatedRecnetPatch.dll");
                 }
             }
         }

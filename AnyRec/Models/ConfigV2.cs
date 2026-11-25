@@ -10,6 +10,12 @@ namespace AnyRec.Models
         public MatchmakingParams MatchmakingParams { get; set; }
         public Objective[][] DailyObjectives { get; set; }
         public List<ConfigTable> ConfigTable { get; set; }
+        public PhotonSettings PhotonConfig { get; set; }
+    }
+    public class PhotonSettings
+    {
+        public string CloudRegion { get; set; }
+        public bool CrcCheckEnabled { get; set; }
     }
     public class ConfigTable
     {

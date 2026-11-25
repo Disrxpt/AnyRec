@@ -18,6 +18,8 @@
 	  <EmbeddedResource Include="Resources\Mods\OldRecNetPatch.dll" />
 	  <EmbeddedResource Include="Resources\Mods\OldRecNetPatch2.dll" />
 	  <EmbeddedResource Include="Resources\Mods\RecNetMonoPatch.dll" />
+	  <EmbeddedResource Include="Resources\Mods\MonoObfuscatedRecnetPatch.dll" />
+	  <EmbeddedResource Include="Resources\Mods\RecNetObfuscatedPhoton.dll" />
   </ItemGroup>
 
 </Project>

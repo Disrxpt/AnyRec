@@ -124,8 +124,12 @@ namespace AnyRec
             Config.SetDefault("Silver", 0);
             Config.SetDefault("Tickets", 0);
 
+            //Settings
+            Config.SetDefault("Settings", "[]");
+
             //Settings (Launcher)
             Config.SetDefault("DeveloperMode", false);
+            Config.SetDefault("AppId480", false);
             Config.SetDefault("ForceSandboxMode", false);
             Config.SetDefault("Server", "");
         }
@@ -152,7 +156,7 @@ namespace AnyRec
             Console.Clear();
             UI.WriteTitle();
             Console.WriteLine("AnyRec - Settings");
-            string op = UI.ShowList(new List<string> { "Go Back", $"Toggle Developer mode [Current: {Config.GetBool("DeveloperMode")}]" });
+            string op = UI.ShowList(new List<string> { "Go Back", $"Toggle Developer mode [Current: {Config.GetBool("DeveloperMode")}]", $"Toggle AppId Fix [Current: {Config.GetBool("AppId480")}]" });
             if (op == "Go Back")
             {
                 Program.Main(new string[0]);
@@ -167,6 +171,23 @@ namespace AnyRec
                 else
                 {
                     Config.Set("DeveloperMode", true);
+                }
+            }
+            else if (op.StartsWith("Toggle AppId Fix"))
+            {
+                bool fix = Config.GetBool("AppId480");
+                if (fix)
+                {
+                    Config.Set("AppId480", false);
+                }
+                else
+                {
+                    Console.Clear();
+                    UI.WriteTitle();
+                    Console.WriteLine("This is a setting will allow you to play AnyRec builds without owning Rec Room on steam.\nEnabling this WILL cause some builds to stop working entirely\nThis is only recommended if you don't own Rec Room on steam.");
+                    string yn = UI.ShowList(new List<string> { "Enable it!", "Nevermind!" });
+                    if (yn == "Enable it!")
+                        Config.Set("AppId480", true);
                 }
             }
             Program.Settings();

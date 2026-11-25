@@ -18,6 +18,7 @@ namespace AnyRec.Backend
                 Level = 1,
                 XP = 0,
                 Reputation = 1,
+                Developer = true,
                 Verified = true,
             };
         }

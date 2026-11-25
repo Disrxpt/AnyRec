@@ -13,5 +13,6 @@ namespace AnyRec.Models
         public int Level { get; set; }
         public int Reputation { get; set; }
         public bool Verified { get; set; }
+        public bool Developer { get; set; }
     }
 }

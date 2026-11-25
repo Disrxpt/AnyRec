@@ -16,6 +16,11 @@ namespace AnyRec.Backend
                     PreferEmptyRoomsFrequency = 0.0f,
                     PreferFullRoomsFrequency = 0.0f
                 },
+                PhotonConfig = new PhotonSettings
+                {
+                    CloudRegion = "us",
+                    CrcCheckEnabled = false
+                },
                 DailyObjectives = Objectives.LoadObjectives(),
                 MessageOfTheDay = "Welcome to AnyRec by ImagineHacking.",
                 ConfigTable = new List<ConfigTable>
