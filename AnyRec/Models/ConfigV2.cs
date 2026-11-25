@@ -7,10 +7,17 @@ namespace AnyRec.Models
     internal class ConfigV2
     {
         public string MessageOfTheDay { get; set; }
+        public string CdnBaseUri { get; set; }
         public MatchmakingParams MatchmakingParams { get; set; }
         public Objective[][] DailyObjectives { get; set; }
         public List<ConfigTable> ConfigTable { get; set; }
         public PhotonSettings PhotonConfig { get; set; }
+        public List<LevelProgMaps> LevelProgressionMaps { get; set; }
+    }
+    public class LevelProgMaps
+    {
+        public int Level { get; set; }
+        public int RequiredXp { get; set; }
     }
     public class PhotonSettings
     {

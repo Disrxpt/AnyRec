@@ -14,5 +14,9 @@ namespace AnyRec.Models
         public int Reputation { get; set; }
         public bool Verified { get; set; }
         public bool Developer { get; set; }
+        public string ProfileImageName { get; set; }
+        public bool HasEmail { get; set; }
+        public bool CanReceiveInvites { get; set; }
+        public string PhoneLastFour { get; set; }
     }
 }

@@ -22,9 +22,13 @@ namespace AnyRec.Tools
                 {
                     vers.ModsToDownload.Add("2016PhotonPatch.dll");
                 }
-                else if (vers.Id >= 55)
+                else if (vers.Id >= 55 && vers.Id <= 62)
                 {
                     vers.ModsToDownload.Add("RecNetObfuscatedPhoton.dll");
+                }
+                else if (vers.Id >= 63 && vers.Id <= 76)
+                {
+                    vers.ModsToDownload.Add("MonoPhotonPatch3.dll");
                 }
                 if (vers.Id >= 33 && vers.Id <= 38)
                 {
@@ -38,9 +42,13 @@ namespace AnyRec.Tools
                 {
                     vers.ModsToDownload.Add("RecNetMonoPatch.dll");
                 }
-                else if (vers.Id >= 55)
+                else if (vers.Id >= 55 && vers.Id <= 62)
                 {
                     vers.ModsToDownload.Add("MonoObfuscatedRecnetPatch.dll");
+                }
+                else if (vers.Id >= 63 && vers.Id <= 76)
+                {
+                    vers.ModsToDownload.Add("RecNetMonoPatch3.dll");
                 }
             }
         }

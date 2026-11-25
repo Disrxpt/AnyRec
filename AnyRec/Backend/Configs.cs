@@ -11,10 +11,19 @@ namespace AnyRec.Backend
         {
             return new ConfigV2
             {
+                CdnBaseUri = "https://localhost:3000/",
                 MatchmakingParams = new MatchmakingParams
                 {
                     PreferEmptyRoomsFrequency = 0.0f,
                     PreferFullRoomsFrequency = 0.0f
+                },
+                LevelProgressionMaps = new List<LevelProgMaps>
+                {
+                    new LevelProgMaps
+                    {
+                        Level = 1,
+                        RequiredXp = 1000
+                    }
                 },
                 PhotonConfig = new PhotonSettings
                 {

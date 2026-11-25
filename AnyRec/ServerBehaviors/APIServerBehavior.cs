@@ -24,7 +24,7 @@ namespace AnyRec.ServerBehaviors
         {
             string api = ctx.Request.Url.AbsolutePath;
             byte[] response = Bytes.StringToByte("[]");
-            if (api == "/api/players/v1/" || api == "/api/players/v1/getorcreate" || api == $"/api/players/v1/{Config.GetInt("PlayerId")}")
+            if (api == "/api/players/v1/" || api == "/api/players/v1/getorcreate" || api == $"/api/players/v1/{Config.GetInt("PlayerId")}" || api == "/api/players/v1")
                 response = Bytes.JsonObjectToByte(ProfileHandler.Get2017Profile());
             else if (api == "/api/config/v2")
                 response = Bytes.JsonObjectToByte(Configs.GetConfigSettings());
@@ -38,6 +38,8 @@ namespace AnyRec.ServerBehaviors
                 response = Bytes.StringToByte("{\"ValidVersion\":true}");
             else if (api == $"/api/settings/v1/{Config.GetInt("PlayerId")}" || api == "/api/settings/v2/")
                 response = Bytes.JsonObjectToByte(PlayerSettings.GetPlayerSettings());
+            else if (api == "/api/platformlogin/v1")
+                response = Bytes.JsonObjectToByte(Backend.PlatformLogin.TokenLogin());
             else if (api == "/api/settings/v1/set")
             {
                 var namevaluecollection = HttpUtility.ParseQueryString(postdata);
