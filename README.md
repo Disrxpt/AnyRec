@@ -15,7 +15,7 @@ If you redistribute AnyRec or a derivative work covered by GPL v3, you must comp
 | Year | Supported? |
 |------|-------------|
 | 2016 | All builds tested and supported ✅ |
-| 2017 | Limited Support (Tested up to April 12th, 2017) ⚠️ |
+| 2017 | Limited Support (Tested up to July 22nd, 2017) ⚠️ |
 | 2018 | No current support ❌ |
 | 2019 | No current support ❌ |
 | 2020 | No current support ❌ |
