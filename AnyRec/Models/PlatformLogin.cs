@@ -8,5 +8,6 @@ namespace AnyRec.Models
     {
         public string Token { get; set; }
         public int PlayerId { get; set; }
+        public string Error { get; set; }
     }
 }

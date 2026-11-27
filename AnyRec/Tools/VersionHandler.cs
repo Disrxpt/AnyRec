@@ -16,6 +16,7 @@ namespace AnyRec.Tools
         public static void AdjustBuildInformation()
         {
             BuildList = JsonConvert.DeserializeObject<List<BuildInformationJson>>(Resources.GetResource("AnyRec.Resources.BuildInformation.json")) ?? new List<BuildInformationJson>();
+            //68 = first build with activity runtime config
             foreach (var vers in BuildList)
             {
                 if (vers.Id <= 54)
@@ -29,6 +30,10 @@ namespace AnyRec.Tools
                 else if (vers.Id >= 63 && vers.Id <= 76)
                 {
                     vers.ModsToDownload.Add("MonoPhotonPatch3.dll");
+                }
+                else if (vers.Id >= 77)
+                {
+                    vers.ModsToDownload.Add("PhotonMonoPatch4.dll");
                 }
                 if (vers.Id >= 33 && vers.Id <= 38)
                 {
@@ -49,6 +54,10 @@ namespace AnyRec.Tools
                 else if (vers.Id >= 63 && vers.Id <= 76)
                 {
                     vers.ModsToDownload.Add("RecNetMonoPatch3.dll");
+                }
+                else if (vers.Id >= 77)
+                {
+                    vers.ModsToDownload.Add("RecNetMonoPatch4.dll");
                 }
             }
         }

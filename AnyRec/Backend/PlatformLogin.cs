@@ -13,7 +13,8 @@ namespace AnyRec.Backend
             return new Models.PlatformLogin
             {
                 PlayerId = Config.GetInt("PlayerId"),
-                Token = Guid.NewGuid().ToString()
+                Token = Guid.NewGuid().ToString(),
+                Error = ""
             };
         }
     }

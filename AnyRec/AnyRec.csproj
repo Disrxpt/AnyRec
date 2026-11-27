@@ -22,6 +22,8 @@
 	  <EmbeddedResource Include="Resources\Mods\RecNetObfuscatedPhoton.dll" />
 	  <EmbeddedResource Include="Resources\Mods\RecNetMonoPatch3.dll" />
 	  <EmbeddedResource Include="Resources\Mods\MonoPhotonPatch3.dll" />
+	  <EmbeddedResource Include="Resources\Mods\RecNetMonoPatch4.dll" />
+	  <EmbeddedResource Include="Resources\Mods\PhotonMonoPatch4.dll" />
   </ItemGroup>
 
 </Project>

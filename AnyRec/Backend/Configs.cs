@@ -28,6 +28,7 @@ namespace AnyRec.Backend
                 PhotonConfig = new PhotonSettings
                 {
                     CloudRegion = "us",
+                    EnableServerTracingAfterDisconnect = false,
                     CrcCheckEnabled = false
                 },
                 DailyObjectives = Objectives.LoadObjectives(),

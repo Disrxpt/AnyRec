@@ -23,6 +23,8 @@ namespace AnyRec.ServerBehaviors
         public static byte[] Listen(HttpListenerContext ctx, string postdata)
         {
             string api = ctx.Request.Url.AbsolutePath;
+            if (api.StartsWith("//"))
+                api = api.Replace("//", "/");
             byte[] response = Bytes.StringToByte("[]");
             if (api == "/api/players/v1/" || api == "/api/players/v1/getorcreate" || api == $"/api/players/v1/{Config.GetInt("PlayerId")}" || api == "/api/players/v1")
                 response = Bytes.JsonObjectToByte(ProfileHandler.Get2017Profile());
@@ -36,9 +38,11 @@ namespace AnyRec.ServerBehaviors
                 response = Bytes.JsonObjectToByte(Avatar.GetAvatar());
             else if (api == "/api/versioncheck/v1" || api == "/api/versioncheck/v2" || api == "/api/versioncheck/v3")
                 response = Bytes.StringToByte("{\"ValidVersion\":true}");
+            else if (api == "/api/platformlogin/v1/profiles")
+                response = Bytes.JsonObjectToByte(new List<object> { ProfileHandler.Get2017Profile() });
             else if (api == $"/api/settings/v1/{Config.GetInt("PlayerId")}" || api == "/api/settings/v2/")
                 response = Bytes.JsonObjectToByte(PlayerSettings.GetPlayerSettings());
-            else if (api == "/api/platformlogin/v1")
+            else if (api == "/api/platformlogin/v1" || api == "/api/platformlogin/v2" || api == "/api/platformlogin/v3" || api == "/api/platformlogin/v4")
                 response = Bytes.JsonObjectToByte(Backend.PlatformLogin.TokenLogin());
             else if (api == "/api/settings/v1/set")
             {

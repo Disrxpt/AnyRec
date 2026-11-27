@@ -22,6 +22,7 @@ namespace AnyRec.Models
     public class PhotonSettings
     {
         public string CloudRegion { get; set; }
+        public bool EnableServerTracingAfterDisconnect { get; set; }
         public bool CrcCheckEnabled { get; set; }
     }
     public class ConfigTable
